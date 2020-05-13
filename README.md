@@ -1,4 +1,4 @@
-# COVID 19 - datasets
+# COVID 19 - Datasets
 ------------------
 A list of high quality open datasets for COVID-19 data analysis 
 
