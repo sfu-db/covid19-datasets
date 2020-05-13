@@ -15,4 +15,4 @@ A list of high quality open datasets for COVID-19 data analysis
 
 
 ### TEXT DATA
-* ![OK_ICON](https://github.com/sfu-db/covid19-datasets/blob/master/assets/ok_icon.png)[IEEE dataset on COVID-19 Tweets data](https://github.com/sfu-db/covid19-datasets/blob/master/datasets-details/IEEE-twitter-dataset.md)
+* ![OK_ICON](https://github.com/sfu-db/covid19-datasets/blob/master/assets/ok_icon.png)[IEEE dataset on COVID-19 Twitter data](https://github.com/sfu-db/covid19-datasets/blob/master/datasets-details/IEEE-twitter-dataset.md)
