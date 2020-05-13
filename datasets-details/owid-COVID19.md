@@ -57,4 +57,5 @@ The information on this page is summarized from [OWID's COVID-19 github page](ht
 
 
 ### Authors:
+-------------
 OWID's COVID19 github page the data has been collected, aggregated, and documented by Diana Beltekian, Daniel Gavrilov, Joe Hasell, Bobbie Macdonald, Edouard Mathieu, Esteban Ortiz-Ospina, Hannah Ritchie, Max Roser.
