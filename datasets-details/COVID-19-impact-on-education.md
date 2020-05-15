@@ -12,6 +12,7 @@ This page gives a brief summary of [Liz Friedman's](https://data.world/liz-fried
 [https://en.unesco.org/covid19/educationresponse](https://en.unesco.org/covid19/educationresponse)
 
 ## Codebook : Column level details (as of May 14, 2020)
+---------
 
 | #  | Column  | Non-Null Count | Dtype |
 --- | ------   |-------------- | ----- |
@@ -23,7 +24,9 @@ This page gives a brief summary of [Liz Friedman's](https://data.world/liz-fried
  
  
 ## Projects based upon this dataset (feel free to add yours or any new ones you come across)
-_________
+---------
+No projects as of May 14, 2020.
+
 
 ## License:
 -------------
