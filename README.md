@@ -5,9 +5,7 @@ A list of high quality open datasets for COVID-19 data analysis
 ## CATEGORIES
 ### TABULAR DATA
 * ![OK_ICON](https://github.com/sfu-db/covid19-datasets/blob/master/assets/ok_icon.png)[Data on COVID-19 (coronavirus) by Our World in Data (OWID.)](https://github.com/sfu-db/covid19-datasets/blob/master/datasets-details/owid-COVID19.md)
-
 * ![OK_ICON](https://github.com/sfu-db/covid19-datasets/blob/master/assets/ok_icon.png)[COVID 19 impact on education](https://github.com/sfu-db/covid19-datasets/blob/master/datasets-details/COVID-19-impact-on-education.md)
-
 * ![OK_ICON](https://github.com/sfu-db/covid19-datasets/blob/master/assets/ok_icon.png)[Confirmed positive cases of COVID-19 in Ontario](https://github.com/sfu-db/covid19-datasets/blob/master/datasets-details/ontario-confirmed-covid19-dataset.md)
 
 
