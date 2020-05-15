@@ -1,5 +1,5 @@
 # Summary of dataset containing COVID - 19 cases in Bristish Columbia (BC)
-This dataset is created by [BC.COVID19.EDIT](http://www.bccdc.ca/health-info/diseases-conditions/covid-19/data) for visualization and reference purposes and is specifically made for the [British Columbia COVID-19 Dashboard](https://experience.arcgis.com/experience/a6f23959a8b14bfa989e3cda29297ded). 
+This [dataset](http://www.bccdc.ca/health-info/diseases-conditions/covid-19/data) is created by [BC.COVID19.EDIT](http://www.bccdc.ca/health-info/diseases-conditions/covid-19/data) for visualization and reference purposes and is specifically made for the [British Columbia COVID-19 Dashboard](https://experience.arcgis.com/experience/a6f23959a8b14bfa989e3cda29297ded). 
 
 
 **Update Frequency:** Updated Daily
@@ -38,3 +38,5 @@ Please refer to [BC - COVID -19 cases by health Autority's page](https://governm
 
 ### Authors:
 -------------
+* [BC.COVID19.EDIT](http://www.bccdc.ca/health-info/diseases-conditions/covid-19/data)
+* Contact: admininfo@bccdc.ca
