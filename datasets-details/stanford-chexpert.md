@@ -3,7 +3,7 @@ CheXpert is a [large dataset](https://stanfordmlgroup.github.io/competitions/che
 
 _You will need to register to download the dataset_
 
-**Update Frequency:** It is update periodically frequency not specified
+**Update Frequency:** It is updated periodically frequency not specified
 
 **Dataset stats:** A large dataset containing 224,316 chest radiograph images of 65,240 patients. The total size of the datset is **439GB** (as of May 14, 2020).
 
