@@ -28,7 +28,7 @@ This [dataset](http://www.bccdc.ca/health-info/diseases-conditions/covid-19/data
 
 ### Projects:
 -------------
-British Columbia COVID-19 Dashboard](https://experience.arcgis.com/experience/a6f23959a8b14bfa989e3cda29297ded)
+[British Columbia COVID-19 Dashboard](https://experience.arcgis.com/experience/a6f23959a8b14bfa989e3cda29297ded)
 
 ### License:
 -------------
