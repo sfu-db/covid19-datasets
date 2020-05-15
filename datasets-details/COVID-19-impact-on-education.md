@@ -3,21 +3,34 @@ This page gives a brief summary of [Liz Friedman's](https://data.world/liz-fried
 
 
 
-**Update Frequency:** 
+**Update Frequency:** Updated Daily
 
-**Dataset stats:** 
+**Dataset stats:** 14203 entries (as of May 14, 2020)
 
-### Data Sources:
+## Data Sources:
 --------
+[https://en.unesco.org/covid19/educationresponse](https://en.unesco.org/covid19/educationresponse)
 
-### [Codebook]()
+## Codebook : Column level details (as of May 14, 2020)
 
+| #  | Column  | Non-Null Count | Dtype |
+--- | ------   |-------------- | ----- |
+ 0  | Date     |14203 non-null | object|
+ 1   |ISO      |14203 non-null | object|
+ 2   |Country  |14203 non-null | object|
+ 3   |Scale    |14203 non-null | object|
+ 4  | Note    | 1176 non-null  | object|
+ 
+ 
+## Projects based upon this dataset (feel free to add yours or any new ones you come across)
+_________
 
-### Projects:
+## License:
 -------------
+Please refer to the [page](https://data.world/liz-friedman/covid-19-impact-on-education/contributors)
 
-### License:
+## Authors:
 -------------
-
-### Authors:
--------------
+* [Kelly Garrett](https://data.world/kgarrett)
+* [Liz Friedman](https://data.world/liz-friedman)
+* [Patrick McGarry](https://data.world/scuttlemonkey)
