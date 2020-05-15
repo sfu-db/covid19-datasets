@@ -5,7 +5,7 @@ _You will need to register to download the dataset_
 
 **Update Frequency:** It is update periodically frequency not specified
 
-**Dataset stats:** A large dataset containing 224,316 chest radiograph images of 65,240 patients. The total size of the datset is 439Gb (as of May 14, 2020).
+**Dataset stats:** A large dataset containing 224,316 chest radiograph images of 65,240 patients. The total size of the datset is **439GB** (as of May 14, 2020).
 
 ## Data Sources:
 --------
@@ -17,6 +17,8 @@ This dataset contains 14 labels as follows:
 
 ![stanford - cheXpert label file](https://github.com/sfu-db/covid19-datasets/blob/master/assets/stanford-chexpert-labels.png)
 
+Please read about the [labelling](https://github.com/stanfordmlgroup/chexpert-labeler) tool under the label extraction from radiology reports section on the [CheXpert page](https://stanfordmlgroup.github.io/competitions/chexpert/).
+
 
 ## Projects:
 -------------
@@ -24,6 +26,8 @@ As a part of a competition, a large number of models have been built using this 
 
 ## License:
 -------------
+Please read the terms and condition regarding the license and usage [here](https://stanfordmlgroup.github.io/competitions/chexpert/).
 
 ## Authors:
 -------------
+Jeremy Irvin, Pranav Rajpurkar Michael Ko, Yifan Yu, Silviana Ciurea-Ilcus, Chris Chute, Henrik Marklund, Behzad Haghgoo, Robyn Ball, Katie Shpanskaya, Jayne Seekins, David A. Mong, Safwan S. Halabi, Jesse K. Sandberg, Ricky Jones, David B. Larson, Curtis P. Langlotz, Bhavik N. Patel, Matthew P. Lungren, Andrew Y. Ng
