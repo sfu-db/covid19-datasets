@@ -38,5 +38,8 @@ Please refer to [Indian Ministry of Health & Family Welfare](https://www.mohfw.g
 
 ### Authors:
 -------------
-
+* [Indian Ministry of Health & Family Welfare](https://www.mohfw.gov.in/)
+* Kaggle Dataset:
+  * **Owner:** [SRK](https://www.kaggle.com/sudalairajkumar)
+  * **Collaborators:** [Devakumar kp](https://www.kaggle.com/imdevskp), [Nomad](https://www.kaggle.com/nomadic1729), [Vopani](https://www.kaggle.com/rohanrao)
   
