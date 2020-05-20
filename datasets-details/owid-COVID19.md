@@ -6,6 +6,8 @@ This [COVID-19 dataset](https://github.com/owid/covid-19-data/tree/master/public
 
 **Dataset stats:** 16801 rows (as of May 11, 2020). More details regarding the column details are given below in the Codebook section.
 
+**Dataset Profile:** [Pandas-profile for the dataset](https://sfu-db.github.io/covid19-datasets/webpages/owiddataset.html). Soon to be replaced with **Dataprep EDA profile**.
+
 
 
 ### **Data Sources:**
