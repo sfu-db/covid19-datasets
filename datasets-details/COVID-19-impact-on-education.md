@@ -7,6 +7,8 @@ This page gives a brief summary of [Liz Friedman's](https://data.world/liz-fried
 
 **Dataset stats:** 14203 entries (as of May 14, 2020)
 
+**Dataset Profile:** [Pandas-profile for the dataset](https://sfu-db.github.io/covid19-datasets/webpages/COVID19-impact-on-education.html). Soon to be replaced with **Dataprep EDA profile**.
+
 ## Data Sources:
 --------
 [https://en.unesco.org/covid19/educationresponse](https://en.unesco.org/covid19/educationresponse)
