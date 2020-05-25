@@ -5,7 +5,7 @@ This [dataset](https://www.bsg.ox.ac.uk/research/research-projects/coronavirus-g
 
 **Dataset stats:** Mutiple .csv files, column level details are provided in the codebook section.
 
-**Dataset Profile:** Add the link to webpage containing the profile.
+**Dataset Profile:** The pandas-profiling webpage for this dataset can be found [here](https://sfu-db.github.io/covid19-datasets/webpages/oxfordDataset-COVID19-reponse.html).
 
 ### Data Sources:
 --------
