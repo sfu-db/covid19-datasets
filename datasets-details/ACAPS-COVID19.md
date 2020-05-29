@@ -10,7 +10,8 @@ This [dataset](https://data.humdata.org/dataset/acaps-covid19-government-measure
 
 **Dataset stats:** one .xlsx excel file of about 3.4mb.
 
-**Dataset Profile:** Add the link to webpage containing the profile.
+**Dataset Profile:** [Pandas-profile for the dataset](https://sfu-db.github.io/covid19-datasets/webpages/acaps-dataset.html). Soon to be replaced with **Dataprep EDA profile**.
+
 
 ### Data Sources:
 --------
