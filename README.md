@@ -16,6 +16,8 @@ If you have an awesome dataset, API link or a project link related to COVID-19 a
 * ![OK_ICON](https://github.com/sfu-db/covid19-datasets/blob/master/assets/ok_icon.png)[COVID-19 in India dataset (contains ageGroup, hostipal beds and state level details on testing).](https://github.com/sfu-db/covid19-datasets/blob/master/datasets-details/COVID-19-in-india.md)
 * ![OK_ICON](https://github.com/sfu-db/covid19-datasets/blob/master/assets/ok_icon.png)[Oxford University Dataset on COVID 19 Government Responses](https://github.com/sfu-db/covid19-datasets/blob/master/datasets-details/oxfordUniversity-COVID19-response.md)
 * ![OK_ICON](https://github.com/sfu-db/covid19-datasets/blob/master/assets/ok_icon.png)[World Bank Indicators of Interest to the COVID-19 Outbreak](https://github.com/sfu-db/covid19-datasets/blob/master/datasets-details/world-bank-indicator.md)
+* ![OK_ICON](https://github.com/sfu-db/covid19-datasets/blob/master/assets/ok_icon.png)[ACAPS COVID-19: Government Measures Dataset](https://github.com/sfu-db/covid19-datasets/blob/master/datasets-details/ACAPS-COVID19.md)
+
 
 
 
