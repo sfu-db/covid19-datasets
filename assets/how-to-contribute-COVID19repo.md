@@ -3,14 +3,16 @@
 ## BACKGROUND:
 
 
-The vision of developing this repository is to have an exhaustive list of high quality datasets pertaining to COVID 19 which will be open to communities such as academia, research and education.
+The vision of developing this repository is to have an exhaustive list of high quality datasets, APIs and projects pertaining to COVID 19 which will be open to communities such as academia, research and education.
 
 The following contributions to the repo are welcomed:
 
 1) New high quality datasets that contain information or statistics pertaining to COVID 19 (these can be tabular data, image data or text data). 
 2) If you find new projects related to any existing dataset. Please feel to add those to dataset-details page of that particular dataset.
 3) Any outdated information pertaining to the current dataset.
-4) Any grammatical errors, structural errors or any errors in generals (outdated links,etc.).
+4) New API links related to COVID-19.
+5) Projects related to COVID - 19 data. 
+6) Any grammatical errors, structural errors or any errors in generals (outdated links,etc.).
 
 
 ## HOW TO CONTRIBUTE A NEW DATASET:
