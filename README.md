@@ -1,6 +1,8 @@
 # COVID 19 - Datasets, APIs and List of Projects.
 ------------------
-The vision of developing this repository is to have an exhaustive list of high quality datasets, API's and projects pertaining to COVID 19 which will be open to communities such as academia, research and education.
+The vision of developing this repository is to have an exhaustive list of high quality datasets, API's and projects pertaining to COVID 19 which will be open to communities such as academia, research and education. 
+
+If you have an awesome dataset, API link or a project link related to COVID-19 and would like to share it with us. Please have a look at our how to [contribute page](https://github.com/sfu-db/covid19-datasets/blob/master/assets/how-to-contribute-COVID19repo.md).
 
 
 # DATASETS:
