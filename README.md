@@ -2,9 +2,8 @@
 ------------------
 The vision of developing this repository is to have an exhaustive list of high quality datasets, API's and projects pertaining to COVID 19 which will be open to communities such as academia, research and education.
 
-## CATEGORIES
 
-## DATASETS:
+# DATASETS:
 --------------
 
 ### TABULAR DATA
@@ -28,9 +27,10 @@ The vision of developing this repository is to have an exhaustive list of high q
 * ![OK_ICON](https://github.com/sfu-db/covid19-datasets/blob/master/assets/ok_icon.png)[COVID-19 Open Reasearch Dataset Challenge (CORD-19)](https://github.com/sfu-db/covid19-datasets/blob/master/datasets-details/COVID-19-open-research-challenge-nih.md)
 
 
-## LIST OF API's:
------------------
 
+
+# LIST OF API's:
+-----------------
 |API | Description |
 | ----------|--------|
 |WHO NEWS API | [WHO - Twitter and YouTube API feeds for WHO, and their RSS feeds regarding COVID 19](https://documenter.getpostman.com/view/8854915/SzS7NkAS?version=latest) |
