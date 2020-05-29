@@ -1,5 +1,5 @@
 # Summary of World Bank Indicators of Interest to the COVID-19 Outbreak dataset.
-This dataset provides a comprehensive list of Indicators of interest to the COVID-19 outbreak. For example hospital beds, number of Physicians, Nurses & midwives per country. It also provides details about underlying modribities such as diabetes, heart disease, cancer, etc.
+This [dataset](https://data.humdata.org/dataset/world-bank-indicators-of-interest-to-the-covid-19-outbreak) provides a comprehensive list of Indicators of interest to the COVID-19 outbreak. For example hospital beds, number of Physicians, Nurses & midwives per country. It also provides details about underlying modribities such as diabetes, heart disease, cancer, etc.
 
 **Update Frequency:** Frequency not specified (last update on March 19, 2020).
 
