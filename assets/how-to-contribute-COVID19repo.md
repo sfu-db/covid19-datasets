@@ -14,6 +14,7 @@ The following contributions to the repo are welcomed:
 
 
 ## HOW TO CONTRIBUTE A NEW DATASET:
+_If this is your first time contributing to a open-source project, have a look at this awesome [tutorial](https://www.youtube.com/watch?v=dSl_qnWO104)._
 
 Please follow this simple procedure inorder to have a successful contribution towards the repository.
 
