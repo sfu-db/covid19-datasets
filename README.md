@@ -56,7 +56,20 @@ If you have an awesome dataset, API link or a project link related to COVID-19 a
 |Librairy API  | [An open web service to identify drugs mentioned in a text and classify them according to the Anatomical Therapeutic Chemical (ATC) classification system and the Concept Unique Identifiers (CUI) described in the Unified Medical Language System (UMLS)](https://documenter.getpostman.com/view/9215231/Szf25VvG?version=latest) |
 |COVID-19 Nigeria API | [Based on public data from Nigeria Centre for Disease Control](https://documenter.getpostman.com/view/9282328/SzYaUxJy?version=latest)|
 |UK Coronavirus Data API| [A live COVID-19 data scraper API provide function with history, and confirmed cases geolocation](https://documenter.getpostman.com/view/9215231/SzYZ2Jss?version=latest)|
+|COVID-19 Japan Web API | [Web API to get COVID-19(coronavirus) information of each prefecture in Japan](https://documenter.getpostman.com/view/9215231/SzYaWe6h?version=latest)|
+| COVID-19 testing locations in Australia | [A single collection with a request for a list of coronavirus testing locations in Australia](https://documenter.getpostman.com/view/9215231/SzYaWe6h?version=latest)|
+|Infection Alert System | [Provides a personal risk score and international and multi-level suspicious contact tracking without sending any personal data to the servers](https://documenter.getpostman.com/view/4282443/SzfAymFD?version=latest) |
+| CDC Testing (ScrAPI) | [Scraping the number of specimens tested for SARS CoV-2 by CDC labs and U.S. public health laboratories from the CDC website](https://documenter.getpostman.com/view/8854915/SzS7R6gm?version=latest) |
+| COVID-19 Twitter Searches | [Twitter API search, with a handful of the common search COVID-19 search terms](https://documenter.getpostman.com/view/8854915/SzS7NkEt?version=latest) |
+
 
 # PROJECTS:
 -----------
 Projects related to various datasets have also been added to their respective project's summary page under project sections.
+
+* **[COVID-19 API with Machine Learning prediction:](https://documenter.getpostman.com/view/10877427/SzYW2f8n?version=latest)** The COVID-19 statistics collected from multiple sources and provided as an easy to use API. The data is then processed by Machine Learning algorithms to build disease spread prediction that is updated daily based on the recent data.
+  
+  
+* **[British Columbia (BC) - Coronavirus Cases dashboard:](https://experience.arcgis.com/experience/a6f23959a8b14bfa989e3cda29297ded)** The BC COVID-19 dashboard for the latest case counts and information on recoveries, deaths, hospitalizations, testing and more.
+  
+  
