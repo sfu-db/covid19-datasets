@@ -4,6 +4,7 @@ The vision of developing this repository is to have an exhaustive list of high q
 
 If you have an awesome dataset, API link or a project link related to COVID-19 and would like to share it with us. Please have a look at our how to [contribute page](https://github.com/sfu-db/covid19-datasets/blob/master/assets/how-to-contribute-COVID19repo.md).
 
+<br/><br/>
 
 # DATASETS:
 --------------
@@ -32,7 +33,7 @@ If you have an awesome dataset, API link or a project link related to COVID-19 a
 * ![OK_ICON](https://github.com/sfu-db/covid19-datasets/blob/master/assets/ok_icon.png)[COVID-19 Open Reasearch Dataset Challenge (CORD-19)](https://github.com/sfu-db/covid19-datasets/blob/master/datasets-details/COVID-19-open-research-challenge-nih.md)
 
 
-
+<br/><br/>
 
 # LIST OF APIs:
 -----------------
@@ -62,7 +63,7 @@ If you have an awesome dataset, API link or a project link related to COVID-19 a
 | CDC Testing (ScrAPI) | [Scraping the number of specimens tested for SARS CoV-2 by CDC labs and U.S. public health laboratories from the CDC website](https://documenter.getpostman.com/view/8854915/SzS7R6gm?version=latest) |
 | COVID-19 Twitter Searches | [Twitter API search, with a handful of the common search COVID-19 search terms](https://documenter.getpostman.com/view/8854915/SzS7NkEt?version=latest) |
 
-
+<br/><br/>
 # PROJECTS:
 -----------
 Projects related to various datasets have also been added to their respective project's summary page under project sections.
