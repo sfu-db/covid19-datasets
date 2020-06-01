@@ -62,6 +62,11 @@ If you have an awesome dataset, API link or a project link related to COVID-19 a
 |Infection Alert System | [Provides a personal risk score and international and multi-level suspicious contact tracking without sending any personal data to the servers](https://documenter.getpostman.com/view/4282443/SzfAymFD?version=latest) |
 | CDC Testing (ScrAPI) | [Scraping the number of specimens tested for SARS CoV-2 by CDC labs and U.S. public health laboratories from the CDC website](https://documenter.getpostman.com/view/8854915/SzS7R6gm?version=latest) |
 | COVID-19 Twitter Searches | [Twitter API search, with a handful of the common search COVID-19 search terms](https://documenter.getpostman.com/view/8854915/SzS7NkEt?version=latest) |
+|Twitter Accounts for State Government in 50 US States |[State government Twitter accounts for all 50 states in the United States](https://documenter.getpostman.com/view/8854915/SzYT5MzV?version=latest)|
+|Twitter Accounts for State Governors in 50 US States|[State governor Twitter accounts for all 50 states in the United States](https://documenter.getpostman.com/view/8854915/SzYT5MzU?version=latest)|
+|Twitter Accounts for State Health Departments in 50 US States | [State health department Twitter accounts for all 50 states in the United States](https://documenter.getpostman.com/view/8854915/SzYT5MzW?version=latest)|
+|County Health Departments for All 50 US States|[A single collection with a request for each of the 50 states, pulling a listing of name, website, address, phone, email, twitter, and facebook for all county health departments](https://documenter.getpostman.com/view/8854915/SzYXVdyQ?version=latest)|
+|Twitter Accounts for County Health Departments in all 50 US States| [The Twitter accounts for over 300 county health departments across 50 US States](https://documenter.getpostman.com/view/8854915/SzYXVdyR?version=latest)|
 
 <br/><br/>
 # PROJECTS:
