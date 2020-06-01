@@ -15,7 +15,7 @@ If you have an awesome dataset, API link or a project link related to COVID-19 a
 * ![OK_ICON](https://github.com/sfu-db/covid19-datasets/blob/master/assets/ok_icon.png)[Confirmed positive cases of COVID-19 in Ontario](https://github.com/sfu-db/covid19-datasets/blob/master/datasets-details/ontario-confirmed-covid19-dataset.md)
 * ![OK_ICON](https://github.com/sfu-db/covid19-datasets/blob/master/assets/ok_icon.png)[British Columbia COVID-19 cases dataset](https://github.com/sfu-db/covid19-datasets/blob/master/datasets-details/BC-COVID-19-dataset.md)
 * ![OK_ICON](https://github.com/sfu-db/covid19-datasets/blob/master/assets/ok_icon.png)[COVID-19 in India dataset (contains ageGroup, hostipal beds and state level details on testing)](https://github.com/sfu-db/covid19-datasets/blob/master/datasets-details/COVID-19-in-india.md)
-* ![OK_ICON](https://github.com/sfu-db/covid19-datasets/blob/master/assets/ok_icon.png)[Oxford University Dataset on COVID 19 Government Responses](https://github.com/sfu-db/covid19-datasets/blob/master/datasets-details/oxfordUniversity-COVID19-response.md)
+* ![OK_ICON](https://github.com/sfu-db/covid19-datasets/blob/master/assets/ok_icon.png)[Oxford University Dataset on COVID-19 Government Responses](https://github.com/sfu-db/covid19-datasets/blob/master/datasets-details/oxfordUniversity-COVID19-response.md)
 * ![OK_ICON](https://github.com/sfu-db/covid19-datasets/blob/master/assets/ok_icon.png)[World Bank Indicators of Interest to the COVID-19 Outbreak](https://github.com/sfu-db/covid19-datasets/blob/master/datasets-details/world-bank-indicator.md)
 * ![OK_ICON](https://github.com/sfu-db/covid19-datasets/blob/master/assets/ok_icon.png)[ACAPS COVID-19: Government Measures Dataset](https://github.com/sfu-db/covid19-datasets/blob/master/datasets-details/ACAPS-COVID19.md)
 
@@ -39,10 +39,10 @@ If you have an awesome dataset, API link or a project link related to COVID-19 a
 -----------------
 |API | Description |
 | ----------|--------|
-|WHO NEWS API | [WHO - Twitter and YouTube API feeds for WHO, and their RSS feeds regarding COVID 19](https://documenter.getpostman.com/view/8854915/SzS7NkAS?version=latest) |
-|COVID 19 Tracking Project | [This API provides the details on COVID 19 cases in each of the 50 states in the US](https://documenter.getpostman.com/view/8854915/SzS8rjHv?version=latest) |
+|WHO NEWS API | [WHO - Twitter and YouTube API feeds for WHO, and their RSS feeds regarding COVID-19](https://documenter.getpostman.com/view/8854915/SzS7NkAS?version=latest) |
+|COVID-19 Tracking Project | [This API provides the details on COVID-19 cases in each of the 50 states in the US](https://documenter.getpostman.com/view/8854915/SzS8rjHv?version=latest) |
 | ECDC NEWS API | [Twitter and YouTube API feeds for European Centre for Disease Prevention and Control (ECDC), and their RSS feeds for pulling information](https://documenter.getpostman.com/view/8854915/SzS7NkAQ?version=latest) |
-|Coronavirus COVID19 API (covid19api.com) | [An API for current cases and more information about COVID-19](https://documenter.getpostman.com/view/10808728/SzS8rjbc?version=latest)|
+|Coronavirus COVID-19 API (covid19api.com) | [An API for current cases and more information about COVID-19](https://documenter.getpostman.com/view/10808728/SzS8rjbc?version=latest)|
 | Health API - COVID-19 (health-api.com) | [Global Coronavirus statistics by country and state](https://documenter.getpostman.com/view/8854915/SzS7R74s?version=latest)|
 |Coronavirus Data API (thevirustracker.com)| [Provides global stats, country stats, full timeline, and country timeline for the coronavirus](https://documenter.getpostman.com/view/8854915/SzS7R74n?version=latest)|
 |Coronavirus Smartable (smartable.ai)| [The coronavirus stats and news API offers latest and historic COVID-19 stats and news information per country or state](https://documenter.getpostman.com/view/8854915/SzS7R74q?version=latest)|
@@ -68,13 +68,14 @@ If you have an awesome dataset, API link or a project link related to COVID-19 a
 |County Health Departments for All 50 US States|[A single collection with a request for each of the 50 states, pulling a listing of name, website, address, phone, email, twitter, and facebook for all county health departments](https://documenter.getpostman.com/view/8854915/SzYXVdyQ?version=latest)|
 |Twitter Accounts for County Health Departments in all 50 US States| [The Twitter accounts for over 300 county health departments across 50 US States](https://documenter.getpostman.com/view/8854915/SzYXVdyR?version=latest)|
 
+
+
 <br/><br/>
 # PROJECTS
 -----------
 Projects related to various datasets have also been added to their respective project's summary page under project sections.
 
 * **[COVID-19 API with Machine Learning prediction:](https://documenter.getpostman.com/view/10877427/SzYW2f8n?version=latest)** The COVID-19 statistics collected from multiple sources and provided as an easy to use API. The data is then processed by Machine Learning algorithms to build disease spread prediction that is updated daily based on the recent data.
-  
   
 * **[British Columbia (BC) - Coronavirus Cases dashboard:](https://experience.arcgis.com/experience/a6f23959a8b14bfa989e3cda29297ded)** The BC COVID-19 dashboard for the latest case counts and information on recoveries, deaths, hospitalizations, testing and more.
   
