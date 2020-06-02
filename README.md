@@ -18,6 +18,7 @@ If you have an awesome dataset, API link or a project link related to COVID-19 a
 * ![OK_ICON](https://github.com/sfu-db/covid19-datasets/blob/master/assets/ok_icon.png)[Oxford University Dataset on COVID-19 Government Responses](https://github.com/sfu-db/covid19-datasets/blob/master/datasets-details/oxfordUniversity-COVID19-response.md)
 * ![OK_ICON](https://github.com/sfu-db/covid19-datasets/blob/master/assets/ok_icon.png)[World Bank Indicators of Interest to the COVID-19 Outbreak](https://github.com/sfu-db/covid19-datasets/blob/master/datasets-details/world-bank-indicator.md)
 * ![OK_ICON](https://github.com/sfu-db/covid19-datasets/blob/master/assets/ok_icon.png)[ACAPS COVID-19: Government Measures Dataset](https://github.com/sfu-db/covid19-datasets/blob/master/datasets-details/ACAPS-COVID19.md)
+* ![OK_ICON](https://github.com/sfu-db/covid19-datasets/blob/master/assets/ok_icon.png)[NYtimes Excess Deaths during the Coronavirus Pandemic](https://github.com/sfu-db/covid19-datasets/blob/master/datasets-details/nytimes-excess-deaths.md)
 
 
 
