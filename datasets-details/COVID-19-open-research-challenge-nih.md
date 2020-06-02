@@ -34,7 +34,7 @@ This dataset was created by the Allen Institute for AI in partnership with the C
 
 ### Projects:
 -------------
-The entire dataset is available on [Kaggle](https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge/data#) 
+The entire dataset is available on [Kaggle](https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge/data#).
 
 ### License:
 -------------
