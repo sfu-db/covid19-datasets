@@ -7,7 +7,7 @@ This freely available [dataset](https://www.kaggle.com/allen-institute-for-ai/CO
 
 **Update Frequency:** Updated frequently - no set frequency
 
-**Dataset stats:** 63, 000 scholarly articles (including 51,000 with full text about COVID-19, SARS-CoV-2, and related coronaviruses). The download size is about 9 GB.
+**Dataset stats:** 63, 000 scholarly articles (including 51,000 with full text about COVID-19, SARS-CoV-2, and related coronaviruses). The download size is about 13 GB.
 
 ### Data Sources:
 --------
@@ -34,7 +34,8 @@ This dataset was created by the Allen Institute for AI in partnership with the C
 
 ### Projects:
 -------------
-The entire dataset is available on Kaggle 
+The entire dataset is available on [Kaggle](https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge/data#).
+ 
 
 ### License:
 -------------
