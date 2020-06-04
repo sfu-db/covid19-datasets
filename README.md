@@ -20,12 +20,9 @@ If you have an awesome dataset, API link or a project link related to COVID-19 a
 * ![OK_ICON](https://github.com/sfu-db/covid19-datasets/blob/master/assets/ok_icon.png)[ACAPS COVID-19: Government Measures Dataset](https://github.com/sfu-db/covid19-datasets/blob/master/datasets-details/ACAPS-COVID19.md)
 * ![OK_ICON](https://github.com/sfu-db/covid19-datasets/blob/master/assets/ok_icon.png)[NYtimes Excess Deaths during the Coronavirus Pandemic](https://github.com/sfu-db/covid19-datasets/blob/master/datasets-details/nytimes-excess-deaths.md)
 * ![OK_ICON](https://github.com/sfu-db/covid19-datasets/blob/master/assets/ok_icon.png)[Brazil COVID-19 Case Data with Basemap (STC)](https://github.com/sfu-db/covid19-datasets/blob/master/datasets-details/Brazil-COVID-19-Case-Data-with-Basemap-(STC).md)
-<<<<<<< HEAD
 * ![OK_ICON](https://github.com/sfu-db/covid19-datasets/blob/master/assets/ok_icon.png)[Colombia COVID-19 Official Dataset](https://github.com/sfu-db/covid19-datasets/blob/master/datasets-details/Colombia-COVID-19-official-dataset.md)
-=======
 * ![OK_ICON](https://github.com/sfu-db/covid19-datasets/blob/master/assets/ok_icon.png)[ECDC-COVID-19-dataset](datasets-details/ECDC-COVID-19-dataset.md)
 
->>>>>>> upstream/master
 
 
 ### IMAGE DATA
