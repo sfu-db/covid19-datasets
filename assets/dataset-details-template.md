@@ -21,7 +21,7 @@ Mention the projects that have been made using this dataset.
 
 ### License:
 -------------
-Mention any licenses used by the dataset or terms of use set by the authord 
+Mention any licenses used by the dataset or terms of use set by the author
 
 ### Authors:
 -------------
