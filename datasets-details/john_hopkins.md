@@ -1,5 +1,5 @@
 # Dataset Title
-This [dataset](https://github.com/CSSEGISandData/COVID-19/blob/master/csse_covid_19_data/csse_covid_19_daily_reports/06-02-2020.csv) contains the daily cases reports received from John Hopkin. It also provides details on geographic locations, incident rates, active cases, cate fatality ratio, etc.
+This [dataset](https://github.com/CSSEGISandData/COVID-19/blob/master/csse_covid_19_data/csse_covid_19_daily_reports/06-02-2020.csv) contains the daily cases reports received from John Hopkin. It also provides details on geographic locations, incident rates, active cases, case fatality ratio, etc.
 
 **Update Frequency:** Daily
 
@@ -20,23 +20,31 @@ COVID Tracking Project: https://covidtracking.com/data.
 
 ### Codebook
 --------------
-
-#   Column               Non-Null Count  Dtype  
----  ------               --------------  -----  
- 0   FIPS                 3027 non-null   float64
- 1   Admin2               3031 non-null   object 
- 2   Province_State       3471 non-null   object 
- 3   Country_Region       3644 non-null   object 
- 4   Last_Update          3644 non-null   object 
- 5   Lat                  3572 non-null   float64
- 6   Long_                3572 non-null   float64
- 7   Confirmed            3644 non-null   int64  
- 8   Deaths               3644 non-null   int64  
- 9   Recovered            3644 non-null   int64  
- 10  Active               3644 non-null   int64  
- 11  Combined_Key         3644 non-null   object 
- 12  Incidence_Rate       3572 non-null   float64
- 13  Case-Fatality_Ratio  3588 non-null   float64
+This dataset includes:
+geographic locations, incident rates, active cases, cate fatality ratio, etc
+* **Geographic locations**
+* **Incident rates**
+* **Active cases**
+* **Case fatality ratio**
+ 
+The following tables provides more details on column data.
+--------
+#|Column|Non-Null Count|Dtype
+-|------|--------------|-----
+ 0 |FIPS|    3027 non-null  | float64
+ 1 |  Admin2|3031 non-null  | object 
+ 2|   Province_State|  3471| non-null|   object 
+ 3|   Country_Region|       3644| non-null|   object 
+ 4|   Last_Update|          3644| non-null|   object 
+ 5|   Lat|                 3572| non-null|   float64
+ 6|   Long_|               3572| non-null|   float64
+ 7|   Confirmed|            3644| non-null|   int64  
+ 8|   Deaths|            3644| non-null|   int64  
+ 9|   Recovered|           3644| non-null|   int64  
+ 10|  Active|           3644| non-null|   int64  
+ 11|  Combined_Key|        3644| non-null|   object 
+ 12|  Incidence_Rate|       3572| non-null|   float64
+ 13|  Case-Fatality_Ratio|  3588| non-null|   float64
 
 ### Projects:
 -------------
