@@ -22,11 +22,11 @@ Colombia National Institutute of Health (Instituto Nacional de Salud)
 --------------
 The data columns for the file are as follows:
 
-| #   | Column (in Spanish)        | Column (in English)                | Column additional information (if applicable)     | Non-Null Count | Dtype  |     
-|---  |------                      | -----                              |                                                   | -------------  | -----  |
+| ID | Column (in Spanish)        | Column (in English)                | Column additional information (if applicable)     | Non-Null Count | Dtype  |     
+| --- | --- | --- | --- | --- | --- |
 | 0   |`Caso`                        | Case number						|                                                   | 30493 non-null | int64  |
 | 1   |`Fecha Not`                   | Notification date to INS   		|                                                   | 30493 non-null | object |     
-| 2   |`Código ciudad`               | City code						    | City code according to the following table: https://www.datos.gov.co/Mapas-Nacionales/DIVIPOLA-Codigos-municipios/gdxc-w37w/data | 30493 non-null | int64 |    
+| 2   |`Código ciudad`               | City code						    | City code according to the following [table]( https://www.datos.gov.co/Mapas-Nacionales/DIVIPOLA-Codigos-municipios/gdxc-w37w/data) | 30493 non-null | int64 |    
 | 3   |`Departamento`                | Department (Province/State) name	|                                                   | 30493 non-null | object |    
 | 4   |`Ciudad`                      | City name							|                                                   | 30493 non-null | object |  
 | 5   |`Edad`                        | Age								|                                                   | 30493 non-null | int64  |  
