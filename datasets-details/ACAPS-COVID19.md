@@ -23,8 +23,8 @@ ACAPS team consulted government, media, United Nations, and other organisations 
 The data columns for the file are as follows:
 
 | #  | Column           |    Non-Null Count  | Dtype    |     
-|---  |------           |    --------------  | -----    |     
-| 0   |ID               |    12011 non-null  | float64  |     
+|---  |------           |    --------------  | -----    |
+| 0   |ID               |    12011 non-null  | float64  |
 | 1   |COUNTRY          |     12011 non-null | object   |     
 | 2   |ISO              |    12011 non-null  |object    |    
 | 3   |ADMIN_LEVEL_NAME |   1278 non-null    |object    |    
