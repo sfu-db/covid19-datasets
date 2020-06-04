@@ -8,7 +8,7 @@ This [dataset](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7
 *3 .csv fils for summary data, each has size 5-10KB
 *2 files for basemap with size 8.5MB and 4.6MB
 
-**Dataset Profile:** [Pandas-profile for the dataset](https://sfu-db.github.io/covid19-datasets/webpages/Italy_Covid_19.html). Soon to be replaced with **Dataprep EDA profile**.
+
 
 
 ### Data Sources:
