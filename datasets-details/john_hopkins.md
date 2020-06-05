@@ -5,6 +5,8 @@ This [dataset](https://github.com/CSSEGISandData/COVID-19) contains the daily ca
 
 **Dataset stats:** Each report is approximately 500 KB.
 
+**Dataset Profile:** [Pandas-profile for the dataset](https://sfu-db.github.io/covid19-datasets/webpages/John_Hopkins.html). Soon to be replaced with **Dataprep EDA profile**.
+
 
 
 ### Data Sources:
