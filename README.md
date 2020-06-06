@@ -42,30 +42,48 @@ If you have an awesome dataset, API link or a project link related to COVID-19 a
 
 # LIST OF APIs
 -----------------
+### COVID-19 news APIs
+
 |API | Description |
 | ----------|--------|
 |WHO NEWS API | [WHO - Twitter and YouTube API feeds for WHO, and their RSS feeds regarding COVID-19](https://documenter.getpostman.com/view/8854915/SzS7NkAS?version=latest) |
 |COVID-19 Tracking Project | [This API provides the details on COVID-19 cases in each of the 50 states in the US](https://documenter.getpostman.com/view/8854915/SzS8rjHv?version=latest) |
 | ECDC NEWS API | [Twitter and YouTube API feeds for European Centre for Disease Prevention and Control (ECDC), and their RSS feeds for pulling information](https://documenter.getpostman.com/view/8854915/SzS7NkAQ?version=latest) |
+|Coronavirus Smartable (smartable.ai)| [The coronavirus stats and news API offers latest and historic COVID-19 stats and news information per country or state](https://documenter.getpostman.com/view/8854915/SzS7R74q?version=latest)|
+
+### COVID-19 case statistics by regions APIs
+|API | Description |
+| ----------|--------|
 |Coronavirus COVID-19 API (covid19api.com) | [An API for current cases and more information about COVID-19](https://documenter.getpostman.com/view/10808728/SzS8rjbc?version=latest)|
 | Health API - COVID-19 (health-api.com) | [Global Coronavirus statistics by country and state](https://documenter.getpostman.com/view/8854915/SzS7R74s?version=latest)|
 |Coronavirus Data API (thevirustracker.com)| [Provides global stats, country stats, full timeline, and country timeline for the coronavirus](https://documenter.getpostman.com/view/8854915/SzS7R74n?version=latest)|
-|Coronavirus Smartable (smartable.ai)| [The coronavirus stats and news API offers latest and historic COVID-19 stats and news information per country or state](https://documenter.getpostman.com/view/8854915/SzS7R74q?version=latest)|
 |New South Wales Coronavirus Cases| [New South Wales Coronavirus disease 2019 (COVID-19) cases](https://documenter.getpostman.com/view/8854915/SzS7R74r?version=latest) |
 |COVID-19 Finnhub API | [Get real-time updates on the number of COVID-19 (Corona virus) cases in the US with a state-by-state breakdown. Data is sourced from CDC and reputable sources](https://documenter.getpostman.com/view/10724784/SzYW3LFa?version=latest)|
-|COVID-19 Elsevier Research API| [A research dataset search engine API (indexing datasets from 60+ scientific data repositories worldwide)](https://documenter.getpostman.com/view/10724784/SzYW3LUn?version=latest)|
 | COVID19-India API| [A volunteer-driven API for COVID-19 stats & patient tracing in India (Unofficial)](https://documenter.getpostman.com/view/10724784/SzYXXKmA?version=latest)|
 |COVID-19 Statistics API| [Based on public data by Johns Hopkins CSSE ](https://documenter.getpostman.com/view/10724784/SzYXWz3x?version=latest)|
 |Chile Corona API | [API to obtain data about coronavirus infections (COVID-19) in Chile](https://documenter.getpostman.com/view/10855464/Szf25VmX?version=latest#intro)|
 |Novel Coronavirus COVID-19 API | [This is an API for the Novel Coronavirus (COVID-19) Statistics. Source of data for this API is Johns Hopkins University Center for Systems Science and Engineering (JHU CSSE) Github Repository.](https://documenter.getpostman.com/view/5352730/SzYbyxR5?version=latest) |
 |Coronavirus (COVID-19) Outbreak API for Developers|[Provides confirmed cases by country and region, province and state, from CDC, ECDC, WHO, Wikipedia and NOVELCovid](https://documenter.getpostman.com/view/922646/SzYbyci2?version=latest)|
-|Librairy API  | [An open web service to identify drugs mentioned in a text and classify them according to the Anatomical Therapeutic Chemical (ATC) classification system and the Concept Unique Identifiers (CUI) described in the Unified Medical Language System (UMLS)](https://documenter.getpostman.com/view/9215231/Szf25VvG?version=latest) |
 |COVID-19 Nigeria API | [Based on public data from Nigeria Centre for Disease Control](https://documenter.getpostman.com/view/9282328/SzYaUxJy?version=latest)|
 |UK Coronavirus Data API| [A live COVID-19 data scraper API provide function with history, and confirmed cases geolocation](https://documenter.getpostman.com/view/9215231/SzYZ2Jss?version=latest)|
 |COVID-19 Japan Web API | [Web API to get COVID-19(coronavirus) information of each prefecture in Japan](https://documenter.getpostman.com/view/9215231/SzYaWe6h?version=latest)|
+
+
+
+
+### COVID-19 Other(Healthcare, testing, literature, contact tracing, etc) APIs
+|API | Description |
+| ----------|--------|
+|COVID-19 Elsevier Research API| [A research dataset search engine API (indexing datasets from 60+ scientific data repositories worldwide)](https://documenter.getpostman.com/view/10724784/SzYW3LUn?version=latest)|
+|Librairy API  | [An open web service to identify drugs mentioned in a text and classify them according to the Anatomical Therapeutic Chemical (ATC) classification system and the Concept Unique Identifiers (CUI) described in the Unified Medical Language System (UMLS)](https://documenter.getpostman.com/view/9215231/Szf25VvG?version=latest) |
 | COVID-19 testing locations in Australia | [A single collection with a request for a list of coronavirus testing locations in Australia](https://documenter.getpostman.com/view/9215231/SzYaWe6h?version=latest)|
 |Infection Alert System | [Provides a personal risk score and international and multi-level suspicious contact tracking without sending any personal data to the servers](https://documenter.getpostman.com/view/4282443/SzfAymFD?version=latest) |
 | CDC Testing (ScrAPI) | [Scraping the number of specimens tested for SARS CoV-2 by CDC labs and U.S. public health laboratories from the CDC website](https://documenter.getpostman.com/view/8854915/SzS7R6gm?version=latest) |
+
+
+### COVID-19 social media APIs
+|API | Description |
+| ----------|--------|
 | COVID-19 Twitter Searches | [Twitter API search, with a handful of the common search COVID-19 search terms](https://documenter.getpostman.com/view/8854915/SzS7NkEt?version=latest) |
 |Twitter Accounts for State Government in 50 US States |[State government Twitter accounts for all 50 states in the United States](https://documenter.getpostman.com/view/8854915/SzYT5MzV?version=latest)|
 |Twitter Accounts for State Governors in 50 US States|[State governor Twitter accounts for all 50 states in the United States](https://documenter.getpostman.com/view/8854915/SzYT5MzU?version=latest)|
