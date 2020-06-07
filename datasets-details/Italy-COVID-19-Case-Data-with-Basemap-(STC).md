@@ -1,13 +1,12 @@
 # Summary of Italy COVID-19 Case Data with Basemap (STC):
 This [dataset](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/4Z8ZKI) contains case data from 02-24-2020 to 05-31-2020, this data repository stores COVID-19 virus case data for Italy, including daily case data, summary data, and base map. Each zip file contains weekly case data from Monday to Sunday.
 
-**Update Frequency:** No specified freqency (most probably weekly).
+**Update Frequency:** No specified frequency (most probably weekly).
 
 **Dataset stats:** :
-*14 .rar files for weekly data, each has size around 4KB
-*3 .csv fils for summary data, each has size 5-10KB
-*2 files for basemap with size 8.5MB and 4.6MB
-
+  * 14 .rar files for weekly data, each has size around 4KB
+  * 3 .csv fils for summary data, each has size 5-10KB
+  * 2 files for basemap with size 8.5MB and 4.6MB
 
 
 
@@ -46,4 +45,4 @@ Please refer to the [page](https://dataverse.harvard.edu/dataset.xhtml?persisten
 
 ### Authors:
 -------------
-NSF Spatiotemporal Innovation Center (NSF Spatiotemporal Innovation Center)
+ * Tian, Leon (NSF Spatiotemporal Innovation Center)
