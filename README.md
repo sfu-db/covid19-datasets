@@ -30,6 +30,7 @@ If you have an awesome dataset, API link or a project link related to COVID-19 a
 ### IMAGE DATA
 * ![OK_ICON](https://github.com/sfu-db/covid19-datasets/blob/master/assets/ok_icon.png)[COVID-19 Image data collections based upon X-ray and CT images of patients](https://github.com/sfu-db/covid19-datasets/blob/master/datasets-details/image-data-chestXray-CTScans.md)
 * ![OK_ICON](https://github.com/sfu-db/covid19-datasets/blob/master/assets/ok_icon.png)[Stanford ML Group CheXpert - A Large Chest X-ray dataset](https://github.com/sfu-db/covid19-datasets/blob/master/datasets-details/stanford-chexpert.md)
+* ![OK_ICON](https://github.com/sfu-db/covid19-datasets/blob/master/assets/ok_icon.png)[COVID-19 Radiography Dataset](datasets-details/radiography-kaggle-COVID-19-dataset.md)
 
 
 
