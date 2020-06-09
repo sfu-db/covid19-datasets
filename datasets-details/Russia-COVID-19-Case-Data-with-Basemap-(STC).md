@@ -1,5 +1,5 @@
 # Summary of Italy COVID-19 Case Data with Basemap (STC):
-This [dataset](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/4Z8ZKI) contains case data from 02-24-2020 to 05-31-2020, this data repository stores COVID-19 virus case data for Russia, including daily case data, summary data, and base map. Each zip file contains weekly case data from Monday to Sunday.
+This [dataset](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/ZR5KW9) contains case data from 02-24-2020 to 05-31-2020, this data repository stores COVID-19 virus case data for Russia, including daily case data, summary data, and base map. Each zip file contains weekly case data from Monday to Sunday.
 
 **Update Frequency:** No specified frequency (most probably weekly).
 
