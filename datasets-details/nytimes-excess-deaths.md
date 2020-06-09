@@ -4,7 +4,7 @@ The [excess deaths dataset](https://github.com/nytimes/covid-19-data/tree/master
 **Update Frequency:** weekly.
 **Dataset stats:** One CSV file of 271 KB.
 
-**Dataset Profile:** 
+**Dataset Profile:** [Pandas-profile for the dataset](https://sfu-db.github.io/covid19-datasets/webpages/nytimes-excess-deaths.html)
 
 ### Data Sources:
 --------
@@ -15,19 +15,17 @@ National and municipal health departments, Vital statistics offices and other of
 
 The data columns for the file are as follows:
 
-| #  | Column           |    Description    | 
-| 0   |deaths               |    The total number of confirmed deaths recorded from any cause.  |     
-| 1   |expected_deaths          |     The baseline number of expected deaths, calculated from a historical average. See expected deaths.   |     
-| 2   |excess_deaths              |    The number of deaths minus the expected deaths.    |
-
-The time fields have the following definitions:
-
-| 3   |frequency |   Weekly or monthly, depending on how the data is recorded.    |    
-| 4   |start_date              | The first date included in the period.     |  
-| 5   |end_date             | The last date included in the period.      |  
-| 6   |month           | Numerical month.      |  
-| 7   |week           | Epidemiological week, which is a standardized way of counting weeks to allow for year-over-year comparisons. Most countries start epi weeks on Mondays, but others vary.      |  
-| 8   |baseline            | The years used to calculate expected_deaths.      |  
+| #  | Column           		| Description    |
+| ---| ------				| ------------	 |
+| 0   |deaths               	|    The total number of confirmed deaths recorded from any cause.  |
+| 1   |expected_deaths          |     The baseline number of expected deaths, calculated from a historical average. See expected deaths.   |
+| 2   |excess_deaths            |    The number of deaths minus the expected deaths.    |
+| 3   |frequency 				| Weekly or monthly, depending on how the data is recorded.    |
+| 4   |start_date               | The first date included in the period.     |
+| 5   |end_date                 | The last date included in the period.      |
+| 6   |month           			| Numerical month.      |
+| 7   |week           			| Epidemiological week, which is a standardized way of counting weeks to allow for year-over-year comparisons. Most countries start epi weeks on Mondays, but others vary.      |
+| 8   |baseline            		| The years used to calculate expected_deaths.      |
 
 
 ### Projects:
