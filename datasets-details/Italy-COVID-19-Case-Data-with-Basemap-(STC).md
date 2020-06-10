@@ -4,10 +4,21 @@ This [dataset](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7
 **Update Frequency:** No specified frequency (most probably weekly).
 
 **Dataset stats:** :
+<<<<<<< HEAD
+*14 .rar files for weekly data, each has size around 4KB
+*3 .csv fils for summary data, each has size 5-10KB
+*2 files for basemap with size 8.5MB and 4.6MB
+
+<<<<<<< HEAD
+**Dataset Profile:** [Pandas-profile for the dataset](https://sfu-db.github.io/covid19-datasets/webpages/Italy_Covid_19.html). Soon to be replaced with **Dataprep EDA profile**.
+=======
+=======
   * 14 .rar files for weekly data, each has size around 4KB
   * 3 .csv fils for summary data, each has size 5-10KB
   * 2 files for basemap with size 8.5MB and 4.6MB
+>>>>>>> upstream/master
 
+>>>>>>> upstream/master
 
 
 ### Data Sources:
@@ -45,4 +56,12 @@ Please refer to the [page](https://dataverse.harvard.edu/dataset.xhtml?persisten
 
 ### Authors:
 -------------
+<<<<<<< HEAD
+<<<<<<< HEAD
+NSF Spatiotemporal Innovation Center (NSF Spatiotemporal Innovation Center)
+=======
+NSF Spatiotemporal Innovation Center (NSF Spatiotemporal Innovation Center)
+>>>>>>> upstream/master
+=======
  * Tian, Leon (NSF Spatiotemporal Innovation Center)
+>>>>>>> upstream/master
