@@ -28,6 +28,8 @@ If you have an awesome dataset, API link or a project link related to COVID-19 a
 * ![OK_ICON](https://github.com/sfu-db/covid19-datasets/blob/master/assets/ok_icon.png)[Yahoo - COVID-19 dataset](/datasets-details/Yahoo_COVID-19.md)
 * ![OK_ICON](https://github.com/sfu-db/covid19-datasets/blob/master/assets/ok_icon.png)[Containment-measure-dataset](/datasets-details/Containment-measure-dataset.md)
 * ![OK_ICON](https://github.com/sfu-db/covid19-datasets/blob/master/assets/ok_icon.png)[Austria COVID-19 Case Data with Basemap (STC)](/datasets-details/Austria-COVID-19-Case-Data-with-Basemap-(STC).md)
+* ![OK_ICON](https://github.com/sfu-db/covid19-datasets/blob/master/assets/ok_icon.png)[Russia COVID-19 Case Data with Basemap (STC)](/datasets-details/Russia-COVID-19-Case-Data-with-Basemap-(STC).md)
+
 
 
 
