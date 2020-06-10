@@ -36,6 +36,7 @@ This dataset was created by the Allen Institute for AI in partnership with the C
 -------------
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 The entire dataset is available on [Kaggle](https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge/data#) 
 =======
 The entire dataset is available on [Kaggle](https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge/data#).
@@ -43,6 +44,10 @@ The entire dataset is available on [Kaggle](https://www.kaggle.com/allen-institu
 =======
 The entire dataset is available on [Kaggle](https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge/data#) 
 >>>>>>> 89037dc... update(COVID-19-open-research-challenge-nih.md) : Dataset size, Kaggle link
+=======
+The entire dataset is available on [Kaggle](https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge/data#).
+ 
+>>>>>>> upstream/master
 
 ### License:
 -------------
