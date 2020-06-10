@@ -13,10 +13,10 @@ This government-generated [dataset](https://www.ins.gov.co/Paginas/Boletines-cas
 
 ### Data Sources:
 --------
-Colombia National Institutute of Health (Instituto Nacional de Salud)
+Colombia National Institute of Health (Instituto Nacional de Salud - INS)
 
-*[Website](http://www.ins.gov.co/Noticias/Paginas/Coronavirus.aspx) 
-*[Dashboard](https://www.datos.gov.co/Salud-y-Protecci-n-Social/Casos-positivos-de-COVID-19-en-Colombia/gt2j-8ykr/data) 
+[Website](http://www.ins.gov.co/Noticias/Paginas/Coronavirus.aspx) 
+[Dashboard](https://www.datos.gov.co/Salud-y-Protecci-n-Social/Casos-positivos-de-COVID-19-en-Colombia/gt2j-8ykr/data) 
 
 ### Codebook
 --------------
@@ -27,20 +27,20 @@ The data columns for the file are as follows:
 | 0   |`Caso`                        | Case number						|                                                   | 30493 non-null | int64  |
 | 1   |`Fecha Not`                   | Notification date to INS   		|                                                   | 30493 non-null | object |     
 | 2   |`Código ciudad`               | City code						    | City code according to the following [table]( https://www.datos.gov.co/Mapas-Nacionales/DIVIPOLA-Codigos-municipios/gdxc-w37w/data) | 30493 non-null | int64 |    
-| 3   |`Departamento`                | Department (Province/State) name	|                                                   | 30493 non-null | object |    
+| 3   |`Departamento`                | Department name	|  Department is a term equivalent to Province (in Canada) or State (in the US) | 30493 non-null | object |    
 | 4   |`Ciudad`                      | City name							|                                                   | 30493 non-null | object |  
 | 5   |`Edad`                        | Age								|                                                   | 30493 non-null | int64  |  
 | 6   |`Sexo`                        | Gender								|                                                   | 30493 non-null | object |  
-| 7   |`Tipo`                        | Case origin type					| -"Importado" (Imported): Individual with COVID-19 who arrived in Colombia from overseas <br/> -"Relacionado" (Related): Individual who got infected with COVID-19 from contact with an infected person <br/> -"En estudio" (Under revision). |	30493 non-null | object |  
+| 7   |`Tipo`                        | Case origin type					| -"Importado" (Imported): Individual with COVID-19 who arrived in Colombia from overseas. <br/> -"Relacionado" (Related): Individual who got infected with COVID-19 from contact with an infected person. <br/> -"En estudio" (Under revision). |	30493 non-null | object |  
 | 8   |`Ubicación`                   | Patient location					| -"Casa" (Home) <br/> -"Fallecido" (Deceased) <br/> -"Hospital" (Hospital) <br/> -"Hospital UCI" (Intensive care unit - ICU) <br/> -"Recuperado" (Recovered) <br/> -"N/A" (Non-applicable) | 30448 non-null | object |  
-| 9   |`Estado`                      | Patient health status				| -"Asintomático" (Asymptomatic) <br/> -"Fallecido" (Deceased) <br/> -"Grave" (Gravely ill) <br/> -"Leve" (Slightly ill) <br/> -"Moderado" (Moderately ill). | 30442 non-null | object |  
+| 9   |`Estado`                      | Patient health status				| -"Asintomático" (Asymptomatic) <br/> -"Fallecido" (Deceased) <br/> -"Grave" (Gravely ill) <br/> -"Leve" (Slightly ill) <br/> -"Moderado" (Moderately ill) | 30442 non-null | object |  
 | 10  |`Pais de procedencia`         | Country of origin					|                                                   | 30493 non-null | object |  
 | 11  |`Fecha de inicio de síntomas` | Symptoms start date				|                                                   | 30490 non-null | object |  
 | 12  |`Fecha de muerte`             | Date of death						|                                                   | 1005 non-null  | object |
 | 13  |`Fecha de diagnóstico`        | Date of diagnosis					|                                                   | 30493 non-null | object |  
 | 14  |`Fecha recuperado`            | Date of recovery					|                                                   | 9645 non-null  | object |  
 | 15  |`Fecha cargue web`            | System upload date					|                                                   | 30493 non-null | object |  
-| 16  |`Tipo de recuperación`        | Recovery type						| -"PCR": Negative results on a second PCR test. <br/> -"Tiempo": Asymptomatic patient after thirty days of diagnosis. | 28749 non-null | object |
+| 16  |`Tipo de recuperación`        | Recovery type						| -"PCR": Negative results on a second PCR test. <br/> -"Tiempo": Asymptomatic patient after thirty days of diagnosis. <br/><br/>PCR: Polymerase chain reaction test | 28749 non-null | object |
 
 ### Projects:
 -------------
@@ -52,5 +52,5 @@ Colombian government has created a [dashboard](https://www.datos.gov.co/Salud-y-
 
 ### Authors:
 -------------
-[National Institute of Health - Government of Colombia](http://www.ins.gov.co)
+[National Institute of Health (Instituto Nacional de Salud - INS) - Government of Colombia](http://www.ins.gov.co)
   

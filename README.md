@@ -29,6 +29,11 @@ If you have an awesome dataset, API link or a project link related to COVID-19 a
 =======
 * ![OK_ICON](https://github.com/sfu-db/covid19-datasets/blob/master/assets/ok_icon.png)[Italy COVID-19 Case Data with Basemap (STC)](/datasets-details/Italy-COVID-19-Case-Data-with-Basemap-(STC).md)
 * ![OK_ICON](https://github.com/sfu-db/covid19-datasets/blob/master/assets/ok_icon.png)[Johns Hopkins University - COVID-19 Data Repository](/datasets-details/john_hopkins.md)
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
+* ![OK_ICON](https://github.com/sfu-db/covid19-datasets/blob/master/assets/ok_icon.png)[Manitoba COVID-19 Daily Cases by Status Dataset](/datasets-details/Manitoba-COVID-19-Daily-Cases-by-Status-dataset.md)
+* ![OK_ICON](https://github.com/sfu-db/covid19-datasets/blob/master/assets/ok_icon.png)[Yahoo - COVID-19 dataset](/datasets-details/Yahoo_COVID-19.md)
 >>>>>>> upstream/master
 
 
@@ -36,6 +41,8 @@ If you have an awesome dataset, API link or a project link related to COVID-19 a
 ### IMAGE DATA
 * ![OK_ICON](https://github.com/sfu-db/covid19-datasets/blob/master/assets/ok_icon.png)[COVID-19 Image data collections based upon X-ray and CT images of patients](https://github.com/sfu-db/covid19-datasets/blob/master/datasets-details/image-data-chestXray-CTScans.md)
 * ![OK_ICON](https://github.com/sfu-db/covid19-datasets/blob/master/assets/ok_icon.png)[Stanford ML Group CheXpert - A Large Chest X-ray dataset](https://github.com/sfu-db/covid19-datasets/blob/master/datasets-details/stanford-chexpert.md)
+* ![OK_ICON](https://github.com/sfu-db/covid19-datasets/blob/master/assets/ok_icon.png)[COVID-19 Radiography Dataset](datasets-details/radiography-kaggle-COVID-19-dataset.md)
+* ![OK_ICON](https://github.com/sfu-db/covid19-datasets/blob/master/assets/ok_icon.png)[Computed Tomography of Lungs Dataset for COVID19](datasets-details/computed-tomography-of-lungs-dataset-for-COVID19.md)
 
 
 
