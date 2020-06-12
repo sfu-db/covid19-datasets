@@ -122,7 +122,7 @@ Projects related to various datasets have also been added to their respective pr
 
 * **[PANDEMIK (Behavior Change and Mitigation Simulation):](https://github.com/autonomio/pandemik)** Pandemik is an end-to-end pipeline for simulating behavior change and mitigation effects on public health, economic, and psychological outcomes.
 
-* **[Coronavirus Visual Analytics:](https://github.com/RongchenGuo/Coronavirus_Visual_Analytics)** A visual analytic system for analyzing big data related to Conornavirus COVID-19 outbreak. The system aims to provide visual insights of big data for clinical researchers. The analytics include **outbreak severity,airline impact and economic recovery** The live demo is the project can be found on this [link](https://rongchenguo.github.io/Coronavirus_Visual_Analytics/#section2).
+* **[Coronavirus Visual Analytics:](https://github.com/RongchenGuo/Coronavirus_Visual_Analytics)** A visual analytic system for analyzing big data related to Conornavirus COVID-19 outbreak. The system aims to provide visual insights of big data for clinical researchers. The analytics include **outbreak severity,airline impact and economic recovery**. The live demo is the project can be found on this [link](https://rongchenguo.github.io/Coronavirus_Visual_Analytics/#section2).
 
 
 
