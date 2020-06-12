@@ -113,5 +113,10 @@ Projects related to various datasets have also been added to their respective pr
 * **[COVID-19 API with Machine Learning prediction:](https://documenter.getpostman.com/view/10877427/SzYW2f8n?version=latest)** The COVID-19 statistics collected from multiple sources and provided as an easy to use API. The data is then processed by Machine Learning algorithms to build disease spread prediction that is updated daily based on the recent data.
   
 * **[British Columbia (BC) - Coronavirus Cases dashboard:](https://experience.arcgis.com/experience/a6f23959a8b14bfa989e3cda29297ded)** The BC COVID-19 dashboard for the latest case counts and information on recoveries, deaths, hospitalizations, testing and more.
-  
+
+* **[Aged Based Simulation of Health and Economic Effects of COVID-19:](https://github.com/petroniocandido/COVID19_AgentBasedSimulation)** Simulation of complex dynamical systems using the individual states of its components (Economic, Aged, Demographics,etc.) to detect global behaviors that emerge due COVID-19. There is also a [medium article](https://towardsdatascience.com/agent-based-simulation-of-covid-19-health-and-economical-effects-6aa4ae0ff397) on this topic by the authors. 
+
+* **[Macroeconomic Dynamics and Reallocation in an Epidemic:](https://github.com/petroniocandido/COVID19_AgentBasedSimulation)** In this paper / project the authors argue that endogenous shifts in private consumption behavior across sectors of the economy can act as a potent mitigation mechanism during an epidemic or when the economy is re-opened after a temporary lockdown.
+
+
   
