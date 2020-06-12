@@ -118,5 +118,15 @@ Projects related to various datasets have also been added to their respective pr
 
 * **[Macroeconomic Dynamics and Reallocation in an Epidemic:](https://github.com/petroniocandido/COVID19_AgentBasedSimulation)** In this paper / project the authors argue that endogenous shifts in private consumption behavior across sectors of the economy can act as a potent mitigation mechanism during an epidemic or when the economy is re-opened after a temporary lockdown.
 
+* **[US county level interactive map of Covid-19 cases (using Geopandas and Bokeh):](https://github.com/mwaugh0328/covid-19-map)** The project creates a static and live/interactive html map (Click on the link!!!) using data from @nytimes that tracks the spread of Covid-19 by date and US counties. Please see @nytimes repository for information regarding the data and it's use.
+
+* **[PANDEMIK (Behavior Change and Mitigation Simulation):](https://github.com/autonomio/pandemik)** Pandemik is an end-to-end pipeline for simulating behavior change and mitigation effects on public health, economic, and psychological outcomes.
+
+
+
+
+
+
+
 
   
