@@ -124,6 +124,24 @@ Projects related to various datasets have also been added to their respective pr
 
 * **[Coronavirus Visual Analytics:](https://github.com/RongchenGuo/Coronavirus_Visual_Analytics)** A visual analytic system for analyzing big data related to Conornavirus COVID-19 outbreak. The system aims to provide visual insights of big data for clinical researchers. The analytics include **outbreak severity,airline impact and economic recovery**. The live demo is the project can be found on this [link](https://rongchenguo.github.io/Coronavirus_Visual_Analytics/#section2).
 
+* **[Covid-19-indicator:](https://github.com/sahib-pratap-singh/Covid-19-indicator)** Web based application to analyse the live cases of COVID-19 and is impact on economy.
+
+* **[BBC Data Unit - Coronavirus crowd funding pubs:](https://github.com/BBC-Data-Unit/coronavirus-crowdfundingpubs)** Analysis of the COVID-19 on crowdfunding for Pubs using the BBC-data-units's dataset.
+
+* **[Coronavirus CLI app:](https://github.com/ahmadawais/corona-cli)** A nodejs based CLI app to provide latest COVID-19 stats across the globe.
+
+* **[ COVID-19 CovidSim microsimulation:](https://github.com/mrc-ide/covid-sim)** COVID-19 CovidSim microsimulation model developed by the MRC Centre for Global Infectious Disease Analysis hosted at Imperial College, London.
+
+* **[ Corona Warn App Server:](https://github.com/corona-warn-app/cwa-server)** The goal of this project is to develop the official Corona-Warn-App for Germany based on the exposure notification API from **Apple** and **Google**. 
+
+
+
+
+
+
+
+
+
 
 
 
