@@ -116,27 +116,39 @@ If you have an awesome dataset, API link or a project link related to COVID-19 a
 -----------
 Projects related to various datasets have also been added to their respective project's summary page under project sections.
 
+### Spread of Disease / Behaviour Change Simulation projects:
+
 * **[COVID-19 API with Machine Learning prediction:](https://documenter.getpostman.com/view/10877427/SzYW2f8n?version=latest)** The COVID-19 statistics collected from multiple sources and provided as an easy to use API. The data is then processed by Machine Learning algorithms to build disease spread prediction that is updated daily based on the recent data.
+
+* **[PANDEMIK (Behavior Change and Mitigation Simulation):](https://github.com/autonomio/pandemik)** Pandemik is an end-to-end pipeline for simulating behavior change and mitigation effects on public health, economic, and psychological outcomes.
+
+
+* **[ COVID-19 CovidSim microsimulation:](https://github.com/mrc-ide/covid-sim)** COVID-19 CovidSim microsimulation model developed by the MRC Centre for Global Infectious Disease Analysis hosted at Imperial College, London.
   
-* **[British Columbia (BC) - Coronavirus Cases dashboard:](https://experience.arcgis.com/experience/a6f23959a8b14bfa989e3cda29297ded)** The BC COVID-19 dashboard for the latest case counts and information on recoveries, deaths, hospitalizations, testing and more.
+### COVID-19 Simulation Projects with Impacts on Health, Economy:
 
 * **[Aged Based Simulation of Health and Economic Effects of COVID-19:](https://github.com/petroniocandido/COVID19_AgentBasedSimulation)** Simulation of complex dynamical systems using the individual states of its components (Economic, Aged, Demographics,etc.) to detect global behaviors that emerge due COVID-19. There is also a [medium article](https://towardsdatascience.com/agent-based-simulation-of-covid-19-health-and-economical-effects-6aa4ae0ff397) on this topic by the authors. 
 
 * **[Macroeconomic Dynamics and Reallocation in an Epidemic:](https://github.com/petroniocandido/COVID19_AgentBasedSimulation)** In this paper / project the authors argue that endogenous shifts in private consumption behavior across sectors of the economy can act as a potent mitigation mechanism during an epidemic or when the economy is re-opened after a temporary lockdown.
 
-* **[US county level interactive map of Covid-19 cases (using Geopandas and Bokeh):](https://github.com/mwaugh0328/covid-19-map)** The project creates a static and live/interactive html map (Click on the link!!!) using data from @nytimes that tracks the spread of Covid-19 by date and US counties. Please see @nytimes repository for information regarding the data and it's use.
+* **[Covid-19-indicator:](https://github.com/sahib-pratap-singh/Covid-19-indicator)** Web based application to analyse the live cases of COVID-19 and is impact on economy.
 
-* **[PANDEMIK (Behavior Change and Mitigation Simulation):](https://github.com/autonomio/pandemik)** Pandemik is an end-to-end pipeline for simulating behavior change and mitigation effects on public health, economic, and psychological outcomes.
+
+
+### Visual Analytics Projects
+
+* **[British Columbia (BC) - Coronavirus Cases dashboard:](https://experience.arcgis.com/experience/a6f23959a8b14bfa989e3cda29297ded)** The BC COVID-19 dashboard for the latest case counts and information on recoveries, deaths, hospitalizations, testing and more.
+
+
+* **[US county level interactive map of Covid-19 cases (using Geopandas and Bokeh):](https://github.com/mwaugh0328/covid-19-map)** The project creates a static and live/interactive html map (Click on the link!!!) using data from @nytimes that tracks the spread of Covid-19 by date and US counties. Please see @nytimes repository for information regarding the data and it's use.
 
 * **[Coronavirus Visual Analytics:](https://github.com/RongchenGuo/Coronavirus_Visual_Analytics)** A visual analytic system for analyzing big data related to Conornavirus COVID-19 outbreak. The system aims to provide visual insights of big data for clinical researchers. The analytics include **outbreak severity,airline impact and economic recovery**. The live demo is the project can be found on this [link](https://rongchenguo.github.io/Coronavirus_Visual_Analytics/#section2).
 
-* **[Covid-19-indicator:](https://github.com/sahib-pratap-singh/Covid-19-indicator)** Web based application to analyse the live cases of COVID-19 and is impact on economy.
+### Other Projects / Apps related to COVID-19
 
 * **[BBC Data Unit - Coronavirus crowd funding pubs:](https://github.com/BBC-Data-Unit/coronavirus-crowdfundingpubs)** Analysis of the COVID-19 on crowdfunding for Pubs using the BBC-data-units's dataset.
 
 * **[Coronavirus CLI app:](https://github.com/ahmadawais/corona-cli)** A nodejs based CLI app to provide latest COVID-19 stats across the globe.
-
-* **[ COVID-19 CovidSim microsimulation:](https://github.com/mrc-ide/covid-sim)** COVID-19 CovidSim microsimulation model developed by the MRC Centre for Global Infectious Disease Analysis hosted at Imperial College, London.
 
 * **[ Corona Warn App Server:](https://github.com/corona-warn-app/cwa-server)** The goal of this project is to develop the official Corona-Warn-App for Germany based on the exposure notification API from **Apple** and **Google**. 
 
