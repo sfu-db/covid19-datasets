@@ -10,27 +10,31 @@ If you have an awesome dataset, API link or a project link related to COVID-19 a
 --------------
 
 ### TABULAR DATA
+
+#### COVID-19 Statistics Datasets:
 * ![OK_ICON](https://github.com/sfu-db/covid19-datasets/blob/master/assets/ok_icon.png)[Data on COVID-19 (coronavirus) by Our World in Data (OWID)](https://github.com/sfu-db/covid19-datasets/blob/master/datasets-details/owid-COVID19.md)
-* ![OK_ICON](https://github.com/sfu-db/covid19-datasets/blob/master/assets/ok_icon.png)[COVID-19 impact on education](https://github.com/sfu-db/covid19-datasets/blob/master/datasets-details/COVID-19-impact-on-education.md)
 * ![OK_ICON](https://github.com/sfu-db/covid19-datasets/blob/master/assets/ok_icon.png)[Confirmed positive cases of COVID-19 in Ontario](https://github.com/sfu-db/covid19-datasets/blob/master/datasets-details/ontario-confirmed-covid19-dataset.md)
 * ![OK_ICON](https://github.com/sfu-db/covid19-datasets/blob/master/assets/ok_icon.png)[British Columbia COVID-19 cases dataset](https://github.com/sfu-db/covid19-datasets/blob/master/datasets-details/BC-COVID-19-dataset.md)
 * ![OK_ICON](https://github.com/sfu-db/covid19-datasets/blob/master/assets/ok_icon.png)[COVID-19 in India dataset (contains ageGroup, hostipal beds and state level details on testing)](https://github.com/sfu-db/covid19-datasets/blob/master/datasets-details/COVID-19-in-india.md)
-* ![OK_ICON](https://github.com/sfu-db/covid19-datasets/blob/master/assets/ok_icon.png)[Oxford University Dataset on COVID-19 Government Responses](https://github.com/sfu-db/covid19-datasets/blob/master/datasets-details/oxfordUniversity-COVID19-response.md)
-* ![OK_ICON](https://github.com/sfu-db/covid19-datasets/blob/master/assets/ok_icon.png)[World Bank Indicators of Interest to the COVID-19 Outbreak](https://github.com/sfu-db/covid19-datasets/blob/master/datasets-details/world-bank-indicator.md)
-* ![OK_ICON](https://github.com/sfu-db/covid19-datasets/blob/master/assets/ok_icon.png)[ACAPS COVID-19: Government Measures Dataset](https://github.com/sfu-db/covid19-datasets/blob/master/datasets-details/ACAPS-COVID19.md)
 * ![OK_ICON](https://github.com/sfu-db/covid19-datasets/blob/master/assets/ok_icon.png)[NYtimes Excess Deaths during the Coronavirus Pandemic](https://github.com/sfu-db/covid19-datasets/blob/master/datasets-details/nytimes-excess-deaths.md)
-* ![OK_ICON](https://github.com/sfu-db/covid19-datasets/blob/master/assets/ok_icon.png)[Brazil COVID-19 Case Data with Basemap (STC)](https://github.com/sfu-db/covid19-datasets/blob/master/datasets-details/Brazil-COVID-19-Case-Data-with-Basemap-(STC).md)
 * ![OK_ICON](https://github.com/sfu-db/covid19-datasets/blob/master/assets/ok_icon.png)[Colombia COVID-19 Official Dataset](/datasets-details/Colombia-COVID-19-official-dataset.md)
 * ![OK_ICON](https://github.com/sfu-db/covid19-datasets/blob/master/assets/ok_icon.png)[ECDC-COVID-19-dataset](datasets-details/ECDC-COVID-19-dataset.md)
-* ![OK_ICON](https://github.com/sfu-db/covid19-datasets/blob/master/assets/ok_icon.png)[Italy COVID-19 Case Data with Basemap (STC)](/datasets-details/Italy-COVID-19-Case-Data-with-Basemap-(STC).md)
 * ![OK_ICON](https://github.com/sfu-db/covid19-datasets/blob/master/assets/ok_icon.png)[Johns Hopkins University - COVID-19 Data Repository](/datasets-details/john_hopkins.md)
 * ![OK_ICON](https://github.com/sfu-db/covid19-datasets/blob/master/assets/ok_icon.png)[Manitoba COVID-19 Daily Cases by Status Dataset](/datasets-details/Manitoba-COVID-19-Daily-Cases-by-Status-dataset.md)
 * ![OK_ICON](https://github.com/sfu-db/covid19-datasets/blob/master/assets/ok_icon.png)[Yahoo - COVID-19 dataset](/datasets-details/Yahoo_COVID-19.md)
+
+#### COVID-19 Impact Datasets
+* ![OK_ICON](https://github.com/sfu-db/covid19-datasets/blob/master/assets/ok_icon.png)[COVID-19 impact on education](https://github.com/sfu-db/covid19-datasets/blob/master/datasets-details/COVID-19-impact-on-education.md)
+* ![OK_ICON](https://github.com/sfu-db/covid19-datasets/blob/master/assets/ok_icon.png)[Oxford University Dataset on COVID-19 Government Responses](https://github.com/sfu-db/covid19-datasets/blob/master/datasets-details/oxfordUniversity-COVID19-response.md)
+* ![OK_ICON](https://github.com/sfu-db/covid19-datasets/blob/master/assets/ok_icon.png)[World Bank Indicators of Interest to the COVID-19 Outbreak](https://github.com/sfu-db/covid19-datasets/blob/master/datasets-details/world-bank-indicator.md)
 * ![OK_ICON](https://github.com/sfu-db/covid19-datasets/blob/master/assets/ok_icon.png)[Containment-measure-dataset](/datasets-details/Containment-measure-dataset.md)
+* ![OK_ICON](https://github.com/sfu-db/covid19-datasets/blob/master/assets/ok_icon.png)[ACAPS COVID-19: Government Measures Dataset](https://github.com/sfu-db/covid19-datasets/blob/master/datasets-details/ACAPS-COVID19.md)
+
+#### Case Datasets with STC Basemaps
 * ![OK_ICON](https://github.com/sfu-db/covid19-datasets/blob/master/assets/ok_icon.png)[Austria COVID-19 Case Data with Basemap (STC)](/datasets-details/Austria-COVID-19-Case-Data-with-Basemap-(STC).md)
 * ![OK_ICON](https://github.com/sfu-db/covid19-datasets/blob/master/assets/ok_icon.png)[Russia COVID-19 Case Data with Basemap (STC)](/datasets-details/Russia-COVID-19-Case-Data-with-Basemap-(STC).md)
-
-
+* ![OK_ICON](https://github.com/sfu-db/covid19-datasets/blob/master/assets/ok_icon.png)[Italy COVID-19 Case Data with Basemap (STC)](/datasets-details/Italy-COVID-19-Case-Data-with-Basemap-(STC).md)
+* ![OK_ICON](https://github.com/sfu-db/covid19-datasets/blob/master/assets/ok_icon.png)[Brazil COVID-19 Case Data with Basemap (STC)](https://github.com/sfu-db/covid19-datasets/blob/master/datasets-details/Brazil-COVID-19-Case-Data-with-Basemap-(STC).md)
 
 
 
@@ -42,6 +46,8 @@ If you have an awesome dataset, API link or a project link related to COVID-19 a
 * ![OK_ICON](https://github.com/sfu-db/covid19-datasets/blob/master/assets/ok_icon.png)[Stanford ML Group CheXpert - A Large Chest X-ray dataset](https://github.com/sfu-db/covid19-datasets/blob/master/datasets-details/stanford-chexpert.md)
 * ![OK_ICON](https://github.com/sfu-db/covid19-datasets/blob/master/assets/ok_icon.png)[COVID-19 Radiography Dataset](datasets-details/radiography-kaggle-COVID-19-dataset.md)
 * ![OK_ICON](https://github.com/sfu-db/covid19-datasets/blob/master/assets/ok_icon.png)[Computed Tomography of Lungs Dataset for COVID19](datasets-details/computed-tomography-of-lungs-dataset-for-COVID19.md)
+
+
 
 
 
