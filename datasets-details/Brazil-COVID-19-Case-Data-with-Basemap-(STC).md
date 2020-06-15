@@ -8,9 +8,6 @@ This [dataset](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7
 *3 .csv fils for summary data, each has size 5-10KB
 *2 files for basemap with size 17.3MB and 2.4MB
 
-**Dataset Profile:** [Pandas-profile for the dataset](https://sfu-db.github.io/covid19-datasets/webpages/Brazil_Covid_19.html). Soon to be replaced with **Dataprep EDA profile**.
-
-
 ### Data Sources:
 --------
 NSF Spatiotemporal Innovation Center (NSF Spatiotemporal Innovation Center)

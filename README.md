@@ -10,20 +10,32 @@ If you have an awesome dataset, API link or a project link related to COVID-19 a
 --------------
 
 ### TABULAR DATA
+
+#### COVID-19 Statistics Datasets:
 * ![OK_ICON](https://github.com/sfu-db/covid19-datasets/blob/master/assets/ok_icon.png)[Data on COVID-19 (coronavirus) by Our World in Data (OWID)](https://github.com/sfu-db/covid19-datasets/blob/master/datasets-details/owid-COVID19.md)
-* ![OK_ICON](https://github.com/sfu-db/covid19-datasets/blob/master/assets/ok_icon.png)[COVID-19 impact on education](https://github.com/sfu-db/covid19-datasets/blob/master/datasets-details/COVID-19-impact-on-education.md)
 * ![OK_ICON](https://github.com/sfu-db/covid19-datasets/blob/master/assets/ok_icon.png)[Confirmed positive cases of COVID-19 in Ontario](https://github.com/sfu-db/covid19-datasets/blob/master/datasets-details/ontario-confirmed-covid19-dataset.md)
 * ![OK_ICON](https://github.com/sfu-db/covid19-datasets/blob/master/assets/ok_icon.png)[British Columbia COVID-19 cases dataset](https://github.com/sfu-db/covid19-datasets/blob/master/datasets-details/BC-COVID-19-dataset.md)
 * ![OK_ICON](https://github.com/sfu-db/covid19-datasets/blob/master/assets/ok_icon.png)[COVID-19 in India dataset (contains ageGroup, hostipal beds and state level details on testing)](https://github.com/sfu-db/covid19-datasets/blob/master/datasets-details/COVID-19-in-india.md)
-* ![OK_ICON](https://github.com/sfu-db/covid19-datasets/blob/master/assets/ok_icon.png)[Oxford University Dataset on COVID-19 Government Responses](https://github.com/sfu-db/covid19-datasets/blob/master/datasets-details/oxfordUniversity-COVID19-response.md)
-* ![OK_ICON](https://github.com/sfu-db/covid19-datasets/blob/master/assets/ok_icon.png)[World Bank Indicators of Interest to the COVID-19 Outbreak](https://github.com/sfu-db/covid19-datasets/blob/master/datasets-details/world-bank-indicator.md)
-* ![OK_ICON](https://github.com/sfu-db/covid19-datasets/blob/master/assets/ok_icon.png)[ACAPS COVID-19: Government Measures Dataset](https://github.com/sfu-db/covid19-datasets/blob/master/datasets-details/ACAPS-COVID19.md)
 * ![OK_ICON](https://github.com/sfu-db/covid19-datasets/blob/master/assets/ok_icon.png)[NYtimes Excess Deaths during the Coronavirus Pandemic](https://github.com/sfu-db/covid19-datasets/blob/master/datasets-details/nytimes-excess-deaths.md)
-* ![OK_ICON](https://github.com/sfu-db/covid19-datasets/blob/master/assets/ok_icon.png)[Brazil COVID-19 Case Data with Basemap (STC)](https://github.com/sfu-db/covid19-datasets/blob/master/datasets-details/Brazil-COVID-19-Case-Data-with-Basemap-(STC).md)
 * ![OK_ICON](https://github.com/sfu-db/covid19-datasets/blob/master/assets/ok_icon.png)[Colombia COVID-19 Official Dataset](/datasets-details/Colombia-COVID-19-official-dataset.md)
 * ![OK_ICON](https://github.com/sfu-db/covid19-datasets/blob/master/assets/ok_icon.png)[ECDC-COVID-19-dataset](datasets-details/ECDC-COVID-19-dataset.md)
-* ![OK_ICON](https://github.com/sfu-db/covid19-datasets/blob/master/assets/ok_icon.png)[Italy COVID-19 Case Data with Basemap (STC)](/datasets-details/Italy-COVID-19-Case-Data-with-Basemap-(STC).md)
 * ![OK_ICON](https://github.com/sfu-db/covid19-datasets/blob/master/assets/ok_icon.png)[Johns Hopkins University - COVID-19 Data Repository](/datasets-details/john_hopkins.md)
+* ![OK_ICON](https://github.com/sfu-db/covid19-datasets/blob/master/assets/ok_icon.png)[Manitoba COVID-19 Daily Cases by Status Dataset](/datasets-details/Manitoba-COVID-19-Daily-Cases-by-Status-dataset.md)
+* ![OK_ICON](https://github.com/sfu-db/covid19-datasets/blob/master/assets/ok_icon.png)[Yahoo - COVID-19 dataset](/datasets-details/Yahoo_COVID-19.md)
+* ![OK_ICON](https://github.com/sfu-db/covid19-datasets/blob/master/assets/ok_icon.png)[Austria COVID-19 Case Data with Basemap (STC)](/datasets-details/Austria-COVID-19-Case-Data-with-Basemap-(STC).md)
+* ![OK_ICON](https://github.com/sfu-db/covid19-datasets/blob/master/assets/ok_icon.png)[Russia COVID-19 Case Data with Basemap (STC)](/datasets-details/Russia-COVID-19-Case-Data-with-Basemap-(STC).md)
+* ![OK_ICON](https://github.com/sfu-db/covid19-datasets/blob/master/assets/ok_icon.png)[Italy COVID-19 Case Data with Basemap (STC)](/datasets-details/Italy-COVID-19-Case-Data-with-Basemap-(STC).md)
+* ![OK_ICON](https://github.com/sfu-db/covid19-datasets/blob/master/assets/ok_icon.png)[Brazil COVID-19 Case Data with Basemap (STC)](https://github.com/sfu-db/covid19-datasets/blob/master/datasets-details/Brazil-COVID-19-Case-Data-with-Basemap-(STC).md)
+
+
+#### COVID-19 Impact Datasets
+* ![OK_ICON](https://github.com/sfu-db/covid19-datasets/blob/master/assets/ok_icon.png)[COVID-19 impact on education](https://github.com/sfu-db/covid19-datasets/blob/master/datasets-details/COVID-19-impact-on-education.md)
+* ![OK_ICON](https://github.com/sfu-db/covid19-datasets/blob/master/assets/ok_icon.png)[Oxford University Dataset on COVID-19 Government Responses](https://github.com/sfu-db/covid19-datasets/blob/master/datasets-details/oxfordUniversity-COVID19-response.md)
+* ![OK_ICON](https://github.com/sfu-db/covid19-datasets/blob/master/assets/ok_icon.png)[World Bank Indicators of Interest to the COVID-19 Outbreak](https://github.com/sfu-db/covid19-datasets/blob/master/datasets-details/world-bank-indicator.md)
+* ![OK_ICON](https://github.com/sfu-db/covid19-datasets/blob/master/assets/ok_icon.png)[Containment-measure-dataset](/datasets-details/Containment-measure-dataset.md)
+* ![OK_ICON](https://github.com/sfu-db/covid19-datasets/blob/master/assets/ok_icon.png)[ACAPS COVID-19: Government Measures Dataset](https://github.com/sfu-db/covid19-datasets/blob/master/datasets-details/ACAPS-COVID19.md)
+
+
 
 
 
@@ -31,6 +43,9 @@ If you have an awesome dataset, API link or a project link related to COVID-19 a
 * ![OK_ICON](https://github.com/sfu-db/covid19-datasets/blob/master/assets/ok_icon.png)[COVID-19 Image data collections based upon X-ray and CT images of patients](https://github.com/sfu-db/covid19-datasets/blob/master/datasets-details/image-data-chestXray-CTScans.md)
 * ![OK_ICON](https://github.com/sfu-db/covid19-datasets/blob/master/assets/ok_icon.png)[Stanford ML Group CheXpert - A Large Chest X-ray dataset](https://github.com/sfu-db/covid19-datasets/blob/master/datasets-details/stanford-chexpert.md)
 * ![OK_ICON](https://github.com/sfu-db/covid19-datasets/blob/master/assets/ok_icon.png)[COVID-19 Radiography Dataset](datasets-details/radiography-kaggle-COVID-19-dataset.md)
+* ![OK_ICON](https://github.com/sfu-db/covid19-datasets/blob/master/assets/ok_icon.png)[Computed Tomography of Lungs Dataset for COVID19](datasets-details/computed-tomography-of-lungs-dataset-for-COVID19.md)
+
+
 
 
 
@@ -99,8 +114,56 @@ If you have an awesome dataset, API link or a project link related to COVID-19 a
 -----------
 Projects related to various datasets have also been added to their respective project's summary page under project sections.
 
+### Spread of Disease / Behaviour Change Simulation projects:
+
 * **[COVID-19 API with Machine Learning prediction:](https://documenter.getpostman.com/view/10877427/SzYW2f8n?version=latest)** The COVID-19 statistics collected from multiple sources and provided as an easy to use API. The data is then processed by Machine Learning algorithms to build disease spread prediction that is updated daily based on the recent data.
+
+* **[PANDEMIK (Behavior Change and Mitigation Simulation):](https://github.com/autonomio/pandemik)** Pandemik is an end-to-end pipeline for simulating behavior change and mitigation effects on public health, economic, and psychological outcomes.
+
+
+* **[ COVID-19 CovidSim microsimulation:](https://github.com/mrc-ide/covid-sim)** COVID-19 CovidSim microsimulation model developed by the MRC Centre for Global Infectious Disease Analysis hosted at Imperial College, London.
   
+### COVID-19 Simulation Projects with Impacts on Health, Economy:
+
+* **[Aged Based Simulation of Health and Economic Effects of COVID-19:](https://github.com/petroniocandido/COVID19_AgentBasedSimulation)** Simulation of complex dynamical systems using the individual states of its components (Economic, Aged, Demographics,etc.) to detect global behaviors that emerge due COVID-19. There is also a [medium article](https://towardsdatascience.com/agent-based-simulation-of-covid-19-health-and-economical-effects-6aa4ae0ff397) on this topic by the authors. 
+
+* **[Macroeconomic Dynamics and Reallocation in an Epidemic:](https://github.com/petroniocandido/COVID19_AgentBasedSimulation)** In this paper / project the authors argue that endogenous shifts in private consumption behavior across sectors of the economy can act as a potent mitigation mechanism during an epidemic or when the economy is re-opened after a temporary lockdown.
+
+* **[Covid-19-indicator:](https://github.com/sahib-pratap-singh/Covid-19-indicator)** Web based application to analyse the live cases of COVID-19 and is impact on economy.
+
+
+
+### Visual Analytics Projects
+
 * **[British Columbia (BC) - Coronavirus Cases dashboard:](https://experience.arcgis.com/experience/a6f23959a8b14bfa989e3cda29297ded)** The BC COVID-19 dashboard for the latest case counts and information on recoveries, deaths, hospitalizations, testing and more.
-  
+
+
+* **[US county level interactive map of Covid-19 cases (using Geopandas and Bokeh):](https://github.com/mwaugh0328/covid-19-map)** The project creates a static and live/interactive html map (Click on the link!!!) using data from @nytimes that tracks the spread of Covid-19 by date and US counties. Please see @nytimes repository for information regarding the data and it's use.
+
+* **[Coronavirus Visual Analytics:](https://github.com/RongchenGuo/Coronavirus_Visual_Analytics)** A visual analytic system for analyzing big data related to Conornavirus COVID-19 outbreak. The system aims to provide visual insights of big data for clinical researchers. The analytics include **outbreak severity,airline impact and economic recovery**. The live demo is the project can be found on this [link](https://rongchenguo.github.io/Coronavirus_Visual_Analytics/#section2).
+
+### Other Projects / Apps related to COVID-19
+
+* **[BBC Data Unit - Coronavirus crowd funding pubs:](https://github.com/BBC-Data-Unit/coronavirus-crowdfundingpubs)** Analysis of the COVID-19 on crowdfunding for Pubs using the BBC-data-units's dataset.
+
+* **[Coronavirus CLI app:](https://github.com/ahmadawais/corona-cli)** A nodejs based CLI app to provide latest COVID-19 stats across the globe.
+
+* **[ Corona Warn App Server:](https://github.com/corona-warn-app/cwa-server)** The goal of this project is to develop the official Corona-Warn-App for Germany based on the exposure notification API from **Apple** and **Google**. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   
