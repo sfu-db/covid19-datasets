@@ -1,4 +1,4 @@
-# Dataset containing Yahoo's COVID - 19 Radiography dataset. 
+# Dataset containing Japan's COVID-19 dataset. 
 The [dataset](https://www.kaggle.com/lisphilar/covid19-dataset-in-japan) covers the COVID-19 datset in Japan. This does not include the cases in Diamond Princess cruise ship (Yokohama city, Kanagawa prefecture) and Costa Atlantica cruise ship (Nagasaki city, Nagasaki prefecture). There are 3 tables: Total number of cases in Japan, The number of cases at prefecture level, and Metadata of each prefecture. For each table there are different fields. 
 
 **Update Frequency:** Not specified

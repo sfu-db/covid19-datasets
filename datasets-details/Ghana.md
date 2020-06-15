@@ -1,4 +1,4 @@
-# Dataset containing Yahoo's COVID - 19 Radiography dataset. 
+# Dataset containing Ghana's COVID-19 dataset. 
 The [dataset](https://github.com/sammyhawkrad/ghana-covid-19-dataset) covers the COVID-19 datset in Ghana. The data available in the dataset comes from updates given by the Ghana Health Service, the Ministry of Information and the Ghana Statistical Service.
 
 **Update Frequency:** Daily
