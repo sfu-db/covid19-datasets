@@ -37,7 +37,7 @@ N/A
 
 ### License:
 -------------
-The Yahoo Knowledge Graph COVID-19 Dataset is made available under a [Creative Commons CC-BY-NC 4.0 license](https://creativecommons.org/licenses/by/4.0/). 
+The Japan's COVID-19 Dataset is made available under a [Creative Commons CC-BY-NC 4.0 license](https://creativecommons.org/licenses/by/4.0/). 
 ### Authors:
 -------------
 * [Lisphilar](https://www.kaggle.com/lisphilar)
