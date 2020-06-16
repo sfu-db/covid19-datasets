@@ -3,7 +3,7 @@ The [dataset](https://github.com/sammyhawkrad/ghana-covid-19-dataset) covers the
 
 **Update Frequency:** Daily
 
-**Dataset stats:** oOne .csv file with size up to 167KB. Contains 8 columns and currently 73 rows (June 15, 2020)
+**Dataset stats:** One .csv file with size up to 167KB. Contains 8 columns and currently 73 rows (June 15, 2020)
 
 ## Data Sources / Disclaimer:
 --------
