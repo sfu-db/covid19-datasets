@@ -5,12 +5,9 @@ The [dataset](https://github.com/sammyhawkrad/ghana-covid-19-dataset) covers the
 
 **Dataset stats:** oOne .csv file with size up to 167KB. Contains 8 columns and currently 73 rows (June 15, 2020)
 
-## Data Sources:
+## Data Sources / Disclaimer:
 --------
- [厚生労働省 Ministry of Health, Labour and Welefare, Japan](https://www.mhlw.go.jp/english/)
- [国土交通省 Ministry of Land, Infrastructure, Transport and Tourism, Japan](https://www.mlit.go.jp/en/)
- [Code for Japan / COVID-19 Japan](https://www.stopcovid19.jp/) 
- [LinkData](http://linkdata.org/)
+Although the data were found using the Ghana Health Service and Ghana Statistical Service web sites and have been produced and processed from sources believed to be reliable, no warranty, expressed or implied, is made regarding accuracy, adequacy, completeness, legality, reliability or usefulness of any information. This disclaimer applies to both isolated and aggregate uses of the information. The information is provided on an "as is" basis. All warranties of any kind, express or implied, including but not limited to the implied warranties of merchantability, fitness for a particular purpose, freedom from contamination by computer viruses and non-infringement of proprietary rights are disclaimed.
 
 ## Column level details for the Ghana_Covid19_DailyActive.csv file.
 ---------
@@ -26,6 +23,27 @@ The [dataset](https://github.com/sammyhawkrad/ghana-covid-19-dataset) covers the
  6  | Cumulative_Death| 29  non-null  | object|
  7 | Active Cases| 72  non-null  | object|
 
+
+More info on the columns of the dataset are given below:
+
+Number of columns = 8
+
+  &nbsp;&nbsp;&nbsp;&nbsp; `confirmed` - total number of confirmed positve cases in a given day
+
+  &nbsp;&nbsp;&nbsp;&nbsp; `recovered` - total number of people who recovered from the virus in a given day
+
+  &nbsp;&nbsp;&nbsp;&nbsp; `death`     - total number of people who died from the virus in a given day
+
+  &nbsp;&nbsp;&nbsp;&nbsp; `date`      - day on which confirmed, recovered and death were reported
+
+  &nbsp;&nbsp;&nbsp;&nbsp; `cumulative_confirmed`  - cumulative count of confirmed positive cases 
+
+  &nbsp;&nbsp;&nbsp;&nbsp; `cumulative_recovered`  - cumulative count of people who have recovered from the virus
+ 
+  &nbsp;&nbsp;&nbsp;&nbsp; `cumulative_death`      - cumulative count of people who have died from the virus
+
+  &nbsp;&nbsp;&nbsp;&nbsp; `active_cases`          - total number of existing positive cases on a given day
+                           (active_cases = cumulative_confirmed - cumulative_recovered - cumulative_death)
 
 ### Projects:
 -------------
