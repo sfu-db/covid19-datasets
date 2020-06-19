@@ -54,6 +54,7 @@ If you have an awesome dataset, API link or a project link related to COVID-19 a
 ### TEXT DATA
 * ![OK_ICON](https://github.com/sfu-db/covid19-datasets/blob/master/assets/ok_icon.png)[IEEE dataset on COVID-19 Twitter data](/datasets-details/IEEE-twitter-dataset.md)
 * ![OK_ICON](https://github.com/sfu-db/covid19-datasets/blob/master/assets/ok_icon.png)[COVID-19 Open Reasearch Dataset Challenge (CORD-19)](/datasets-details/COVID-19-open-research-challenge-nih.md)
+* ![OK_ICON](https://github.com/sfu-db/covid19-datasets/blob/master/assets/ok_icon.png)[COVID-19 Multilanguage Tweets Dataset](/datasets-details/COVID-19-multilanguage-tweets-dataset.md)
 
 
 <br/><br/>
