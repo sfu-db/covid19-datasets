@@ -153,9 +153,10 @@ Projects related to various datasets have also been added to their respective pr
 
 * **[ Corona Warn App Server:](https://github.com/corona-warn-app/cwa-server)** The goal of this project is to develop the official Corona-Warn-App for Germany based on the exposure notification API from **Apple** and **Google**. 
 
-
-
-
+<br/><br/>
+# Citation Policy:
+-------
+The summary information provided in this repo about the datasets/APIs/Projects is open to use by anyone provided they cite this repo. The liscense / or terms of usage pertaining to individual datasets can be found on their individual details page. If this collection has been useful to you, we would really appreciate if you can share this with other people. Thank you!
 
 
 
