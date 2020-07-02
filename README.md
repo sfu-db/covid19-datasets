@@ -161,11 +161,15 @@ Projects related to various datasets have also been added to their respective pr
 <br/><br/>
 # Courses Related to COVID-19
 -----------
-* ![OK_ICON](https://github.com/sfu-db/covid19-datasets/blob/master/assets/ok_icon.png) [Stanford University CS 472 Data science and AI for COVID-19](https://sites.google.com/view/data-science-covid-19).
-* ![OK_ICON](https://github.com/sfu-db/covid19-datasets/blob/master/assets/ok_icon.png)[Applied Data Science COVID-19 data analysis](https://www.udemy.com/course/applied-data-science-covid-19-prototype/).
-* ![OK_ICON](https://github.com/sfu-db/covid19-datasets/blob/master/assets/ok_icon.png) [COVID-19 Data Science Urban Epidemic Modelling in Python](https://www.udemy.com/course/covid-19-urban-epidemic-modelling-in-python/).
-* ![OK_ICON](https://github.com/sfu-db/covid19-datasets/blob/master/assets/ok_icon.png) [COVID19 Data Analysis Using Python](https://www.coursera.org/projects/covid19-data-analysis-using-python).
-* ![OK_ICON](https://github.com/sfu-db/covid19-datasets/blob/master/assets/ok_icon.png)[Tableau Crash Course: Build and Share a COVID-19 Dashboard](https://www.udemy.com/course/tableau-crash-course-build-and-share-a-covid-19-dashboard/).
+* ![OK_ICON](https://github.com/sfu-db/covid19-datasets/blob/master/assets/ok_icon.png) [CS 472 Data science and AI for COVID-19  - (Stanford University)](https://sites.google.com/view/data-science-covid-19).
+* ![OK_ICON](https://github.com/sfu-db/covid19-datasets/blob/master/assets/ok_icon.png)[Applied Data Science COVID-19 data analysis - (Udemy)](https://www.udemy.com/course/applied-data-science-covid-19-prototype/).
+* ![OK_ICON](https://github.com/sfu-db/covid19-datasets/blob/master/assets/ok_icon.png) [COVID-19 Data Science Urban Epidemic Modelling in Python - (Udemy)](https://www.udemy.com/course/covid-19-urban-epidemic-modelling-in-python/).
+* ![OK_ICON](https://github.com/sfu-db/covid19-datasets/blob/master/assets/ok_icon.png) [COVID19 Data Analysis Using Python - (Coursera)](https://www.coursera.org/projects/covid19-data-analysis-using-python).
+* ![OK_ICON](https://github.com/sfu-db/covid19-datasets/blob/master/assets/ok_icon.png)[Tableau Crash Course: Build and Share a COVID-19 Dashboard - (Udemy)](https://www.udemy.com/course/tableau-crash-course-build-and-share-a-covid-19-dashboard/).
+* ![OK_ICON](https://github.com/sfu-db/covid19-datasets/blob/master/assets/ok_icon.png)[CMPT 456 - Information Retrieval and Web Search - (Simon Fraser University)](https://sites.google.com/view/ds-twins/home/cmpt-456)
+* ![OK_ICON](https://github.com/sfu-db/covid19-datasets/blob/master/assets/ok_icon.png)[CMPT 459 - Data Mining - (Simon Fraser University)](https://sites.google.com/view/ds-twins/home/cmpt-459)
+
+
 
 
 
