@@ -28,6 +28,7 @@ If you have an awesome dataset, API link or a project link related to COVID-19 a
 * ![OK_ICON](https://github.com/sfu-db/covid19-datasets/blob/master/assets/ok_icon.png)[Brazil COVID-19 Case Data with Basemap (STC)](/datasets-details/Brazil-COVID-19-Case-Data-with-Basemap-(STC).md)
 * ![OK_ICON](https://github.com/sfu-db/covid19-datasets/blob/master/assets/ok_icon.png)[COVID-19 in Japan Dataset](/datasets-details/Japan.md)
 * ![OK_ICON](https://github.com/sfu-db/covid19-datasets/blob/master/assets/ok_icon.png)[COVID-19 in Ghana Dataset](https://github.com/sfu-db/covid19-datasets/blob/master/datasets-details/Brazil-COVID-19-Case-Data-with-Basemap-(STC).md)
+* ![OK_ICON](https://github.com/sfu-db/covid19-datasets/blob/master/assets/ok_icon.png)[COVID-19 in Spain Dataset](/datasets-details/COVID-19-in-Spain-Dataset.md)
 
 
 #### COVID-19 Impact Datasets
