@@ -9,7 +9,7 @@ The utility of this dataset has been confirmed by a senior radiologist in Tongji
 
 ### Data Sources:
 --------
-[GitHub](https://github.com/UCSD-AI4H/COVID-CT)
+[GitHub Data Repo](https://github.com/UCSD-AI4H/COVID-CT)
 
 ### Authors:
 -------------
