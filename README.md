@@ -51,6 +51,7 @@ If you have an awesome dataset, API link or a project link related to COVID-19 a
 * ![OK_ICON](https://github.com/sfu-db/covid19-datasets/blob/master/assets/ok_icon.png)[Computed Tomography of Lungs Dataset for COVID19](datasets-details/computed-tomography-of-lungs-dataset-for-COVID19.md)
 * ![OK_ICON](https://github.com/sfu-db/covid19-datasets/blob/master/assets/ok_icon.png)[BIMCV - Medical Imaging Databank of the Valencia Region](datasets-details/BIMCV-Medical-Imaging-Databank-of-the-Valencia-Region.md)
 * ![OK_ICON](https://github.com/sfu-db/covid19-datasets/blob/master/assets/ok_icon.png)[Radiopaedia COVID-19 CT Lung and Infection Segmentation Dataset](datasets-details/COVID-19-Radiopaedia-CT-Lung-and-Infection-data.md)
+* ![OK_ICON](https://github.com/sfu-db/covid19-datasets/blob/master/assets/ok_icon.png)[EU COVID-19 Challenge - Synthetic CT Data for Deep Learning](datasets-details/COVID-19-Radiopaedia-CT-Lung-and-Infection-data.md)
 
 
 
