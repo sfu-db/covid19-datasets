@@ -55,7 +55,7 @@ If you have an awesome dataset, API link or a project link related to COVID-19 a
 * ![OK_ICON](https://github.com/sfu-db/covid19-datasets/blob/master/assets/ok_icon.png)[COVID-19 CT Lung and Infection Segmentation Benchmark Dataset](datasets-details/COVID-19-CT-benchmark-data.md)
 * ![OK_ICON](https://github.com/sfu-db/covid19-datasets/blob/master/assets/ok_icon.png)[MosMed COVID19 Data from Center of Diagnostics and Telemedicine](datasets-details/MosMed-COVID19-Data-from-Center-of-Diagnostics-and-Telemedicine.md)
 * ![OK_ICON](https://github.com/sfu-db/covid19-datasets/blob/master/assets/ok_icon.png)[COVID-19 CT Data from Wuhan Tongji Hospital](datasets-details/Wuhan-Tongji-Hospital-CT-Data.md)
-
+* ![OK_ICON](https://github.com/sfu-db/covid19-datasets/blob/master/assets/ok_icon.png)[Covid-19 Xray Dataset from V7 Labs](datasets-details/V7-labs-COVID-19-Xray-data.md)
 
 
 
