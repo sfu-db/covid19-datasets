@@ -119,10 +119,9 @@ If you have an awesome dataset, API link or a project link related to COVID-19 a
 |Twitter Accounts for State Health Departments in 50 US States | [State health department Twitter accounts for all 50 states in the United States](https://documenter.getpostman.com/view/8854915/SzYT5MzW?version=latest)|
 |County Health Departments for All 50 US States|[A single collection with a request for each of the 50 states, pulling a listing of name, website, address, phone, email, twitter, and facebook for all county health departments](https://documenter.getpostman.com/view/8854915/SzYXVdyQ?version=latest)|
 |Twitter Accounts for County Health Departments in all 50 US States| [The Twitter accounts for over 300 county health departments across 50 US States](https://documenter.getpostman.com/view/8854915/SzYXVdyR?version=latest)|
-
-
-
 <br/><br/>
+
+
 # PROJECTS
 -----------
 Projects related to various datasets have also been added to their respective project's summary page under project sections.
@@ -166,9 +165,6 @@ Projects related to various datasets have also been added to their respective pr
 <br/><br/>
 
 
-
-
-<br/><br/>
 # Courses Related to COVID-19
 -----------
 * ![OK_ICON](https://github.com/sfu-db/covid19-datasets/blob/master/assets/ok_icon.png) [CS 472 Data science and AI for COVID-19  - (Stanford University)](https://sites.google.com/view/data-science-covid-19).
@@ -181,7 +177,12 @@ Projects related to various datasets have also been added to their respective pr
 
 
 
+<br/><br/>
 
+# Contributions
+--------------
+* [Data Science Reasearch Group - SFU](https://data.cs.sfu.ca/)
+* [Medical Image Analysis Lab - SFU](https://www.sfu.ca/computing/research/labs/mica.html)
 
 
 
