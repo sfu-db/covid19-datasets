@@ -39,6 +39,10 @@ If you have an awesome dataset, API link or a project link related to COVID-19 a
 * ![OK_ICON](https://github.com/sfu-db/covid19-datasets/blob/master/assets/ok_icon.png)[Containment-measure-dataset](/datasets-details/Containment-measure-dataset.md)
 * ![OK_ICON](https://github.com/sfu-db/covid19-datasets/blob/master/assets/ok_icon.png)[ACAPS COVID-19: Government Measures Dataset](https://github.com/sfu-db/covid19-datasets/blob/master/datasets-details/ACAPS-COVID19.md)
 * ![OK_ICON](https://github.com/sfu-db/covid19-datasets/blob/master/assets/ok_icon.png)[COVID-19 Impact on Power Consumption in India](/datasets-details/covid19_effect_on_power_consumption_india.md)
+* ![OK_ICON](https://github.com/sfu-db/covid19-datasets/blob/master/assets/ok_icon.png)[HowsMyFlattening COVID-19 Dataset](/datasets-details/hows-my-flattening-covid19-canad.md)
+* ![OK_ICON](https://github.com/sfu-db/covid19-datasets/blob/master/assets/ok_icon.png)[Community Mobility Dataset](/datasets-details/community-mobility-dataset.md)
+
+
 
 
 
@@ -182,7 +186,7 @@ Projects related to various datasets have also been added to their respective pr
 # Contributions
 --------------
 * [Data Science Reasearch Group - SFU](https://data.cs.sfu.ca/)
-* [Medical Image Analysis Lab - SFU](https://www.sfu.ca/computing/research/labs/mica.html)
+* [Medical Image Analysis Lab - SFU](https://www.medicalimageanalysis.com/)
 
 
 
